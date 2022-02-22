@@ -1,0 +1,1265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short dialogue, wherein is proved, that no man can be saved without good vvorkes</title>
+            <author>Corderoy, Jeremy, b. 1562 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19331</idno>
+            <idno type="STC">STC 5756</idno>
+            <idno type="STC">ESTC S115604</idno>
+            <idno type="EEBO-CITATION">99850822</idno>
+            <idno type="PROQUEST">99850822</idno>
+            <idno type="VID">16052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1512:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short dialogue, wherein is proved, that no man can be saved without good vvorkes</title>
+                  <author>Corderoy, Jeremy, b. 1562 or 3.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Edit. 2. With some additions.</edition>
+               </editionStmt>
+               <extent>[24], 110, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ioseph Barnes, and are to be sold in Paules Church-yard at the signe of the Crowne, by Simon Waterson [in London],</publisher>
+                  <pubPlace>At Oxford :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Ieremy Corderoy.</note>
+                  <note>Book seller's location from STC.</note>
+                  <note>Last leaf blank?.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Good works (Theology) --  Early works to 1800.</term>
+               <term>Justification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16052:1" rendition="simple:additions"/>
+            <pb facs="tcp:16052:1" rendition="simple:additions"/>
+            <p>A SHORT DIA<g ref="char:EOLhyphen"/>LOGVE, WHEREIN is proved, that no man can be ſaved without good vvorkes.</p>
+            <p>Edit. 2. With ſome Additions.</p>
+            <q>Be not deceaved, God is not mocked: for what<g ref="char:EOLhyphen"/>ſoever a man ſoweth, that ſhall he reape; he that ſoweth to the fleſh, ſhall reape corrup<g ref="char:EOLhyphen"/>tion, but he that ſoweth to the ſpirite, ſhall reape life everlaſting. <bibl>
+                  <hi>Galat. 6.7.8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>AT OXFORD,</hi> Printed by Ioſeph Barnes, and are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be ſold in Paules Church-yard at the ſigne of the Crowne, by <hi>Simon Waterſon.</hi> 1604.</p>
+            <pb facs="tcp:16052:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:16052:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:16052:3"/>
+            <pb facs="tcp:16052:3"/>
+            <head>To the Right VVorſhipfull Sir <hi>ROBERT VER<g ref="char:EOLhyphen"/>NON</hi> Knight, all health and proſperitie.</head>
+            <p>
+               <seg rend="decorInit">A</seg>lthough (Right Worſhipfull) nowe long di<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>ce of place and time, hath ſevered vs, yet the exceeding greate kindnes you alwaies bore towards mee, whileſt you
+<pb facs="tcp:16052:4"/> lived in Oxforde, hath wrote ſo deep an impreſ<g ref="char:EOLhyphen"/>ſion in my minde, that nei<g ref="char:EOLhyphen"/>ther diſco<g ref="char:cmbAbbrStroke">̄</g>tinua<g ref="char:cmbAbbrStroke">̄</g>ce of time, nor diſtance of place, hath any thing abated my wo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ted dutifull affection to<g ref="char:EOLhyphen"/>wards you. Preſuming of the like affection in you towardes mee, (knowing your kind diſpoſitio<g ref="char:cmbAbbrStroke">̄</g>) I am imboldned to offer, &amp; de<g ref="char:EOLhyphen"/>dicate this my little book vnto you: the which being conſcious of his own im<g ref="char:EOLhyphen"/>perfections, craues your patronage, and favour;
+<pb facs="tcp:16052:4"/> which if it may obtaine, it fears not to come abroad into the view of men, &amp; if you vvill vouchſafe to reade &amp; like of it, it ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es not the cenſure of others, both which it hopes the rather to obtaine for my ſake. It is not long, nor te<g ref="char:EOLhyphen"/>dious, &amp; (I hope) it is pro<g ref="char:EOLhyphen"/>fitable, and therefore it hopes the better accep<g ref="char:EOLhyphen"/>ta<g ref="char:cmbAbbrStroke">̄</g>ce, the which if it mighte obtaine, you ſhall make mee not repent mine en<g ref="char:EOLhyphen"/>devours. Thus my hum<g ref="char:EOLhyphen"/>ble duty reme<g ref="char:cmbAbbrStroke">̄</g>bred I com<g ref="char:EOLhyphen"/>mit
+<pb facs="tcp:16052:5"/> you to the tuition of the Almightie.</p>
+            <closer>
+               <signed>Yours for ever <hi>IEREMY CORDEROY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:16052:5"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S to the body of man (Curteous Reader) all kinds of diſeaſes, to all kinds of ages are not incident, but ſome diſea<g ref="char:EOLhyphen"/>ſes are more peculiar to vs whe<g ref="char:cmbAbbrStroke">̄</g> wee are children, ſome proper vnto vs when we are you<g ref="char:cmbAbbrStroke">̄</g>g me<g ref="char:cmbAbbrStroke">̄</g>, ſome more incident when wee are olde: ſo in the Church of God, al kind of evils breake not forth in one age, but ſome are more peculiar to ſome age, the<g ref="char:cmbAbbrStroke">̄</g> vnto others; as both hiſtories of former times, and daily experi<g ref="char:EOLhyphen"/>ence doe manifeſt vnto vs; the diſpoſition whereof come not
+<pb facs="tcp:16052:6"/> by chance, but by the determi<g ref="char:EOLhyphen"/>nate cou<g ref="char:cmbAbbrStroke">̄</g>ſaile of the Lord, who in his iuſt iudgme<g ref="char:cmbAbbrStroke">̄</g>t diſpoſeth of theſe things, as it ſhal make for his glorie, and the good of his church. That theſe things come to paſſe by the appointment of God, it is manifeſt by many pla<g ref="char:EOLunhyphen"/>ces of the Scripture, wherein god ſheweth that he doth ſend theſe calamities for the exer<g ref="char:EOLhyphen"/>ciſe of his church, &amp; alſo fore<g ref="char:EOLhyphen"/>telleth the time when they ſhal come; in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. of <hi>Deuterono<g ref="char:EOLhyphen"/>mie,</hi> verſe, 3. the Lord ſaith that <hi>he vvill ſende falſe Prophets a<g ref="char:EOLhyphen"/>mongſt vs, to trie vs, vvhether we loue him with al our harts &amp; with al our ſouls.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y this means mens harts ſhal be manifeſted, whether they loue God or no;
+<pb facs="tcp:16052:6"/> they that belong vnto God, wil not giue eare vnto theſe falſe Prophets, but vvil bee directed by the word of God; according to that ſaying of our Saviour, <hi>my ſheepe heare my voice, &amp; fol<g ref="char:EOLhyphen"/>low me,</hi>
+               <note place="margin">Ioh. 10.</note> 
+               <hi>they vvill not follovve a ſtraunger, but flee from him, for they knovve not the voice of a ſtranger.</hi> He foreſheweth whe<g ref="char:cmbAbbrStroke">̄</g> ſuch &amp; ſuch evils ſhal come, as it appeareth in divers places of the Prophets in the olde Te<g ref="char:EOLhyphen"/>ſtament; and in the new, the re<g ref="char:EOLhyphen"/>velation of Iohn aboundeth in predictions of things to come. Now as God in his goodnes &amp; mercy towards vs vouchſafeth to forewarne vs of theſe temp<g ref="char:EOLhyphen"/>tations that ſhal come on vs, &amp; when, that therefore vvee may
+<pb facs="tcp:16052:7"/> bee the better armed againſt ſuch events; ſo it is our duty, to take notice hereof, and accor<g ref="char:EOLhyphen"/>dingly to addreſſe our ſelues to withſtand ſuch temptations as ſhal come on vs; but eſpeciallie to obſerue what evils are more proper to the time wherein we our ſelues liue, as moſt pertine<g ref="char:cmbAbbrStroke">̄</g>t vnto vs; not to ſpeake of mat<g ref="char:EOLhyphen"/>ters of olde time, but of latter times, as moſt concerning vs. The Apoſtles, inſpired by the ho<g ref="char:EOLunhyphen"/>ly Ghoſt, haue intimated vnto vs of this age, what temptatio<g ref="char:cmbAbbrStroke">̄</g>s ſhal aſſault vs, vvho haue divi<g ref="char:EOLhyphen"/>ded the time from the incarna<g ref="char:EOLhyphen"/>tion of Chriſt, vntil his ſecond co<g ref="char:cmbAbbrStroke">̄</g>ming to iudgment, into two ſeveral times; in which, two ſe<g ref="char:EOLhyphen"/>veral temptations ſhal aſſaulte
+<pb facs="tcp:16052:7"/> the church of God: the former of theſe two times, they terme, the latter daies; the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, the laſt daies. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the former, that is the latter daies, ſhal come er<g ref="char:EOLhyphen"/>rours in doctrine: in the laſt times ſhal come corruption of ma<g ref="char:cmbAbbrStroke">̄</g>ners: not that the later daies ſhal be free from corruption of life and vngodly behaviour, or the laſt daies ſhal bee free from errour of doctrine: but in the latter daies errour of doctrine, in the laſt daies lewdnes of life, as two predominant ill humors ſhal abound, &amp; therfore accor<g ref="char:EOLhyphen"/>ding to the diuerſitye of theſe two times, it is our duty to bend our ſelues more againſt the one then the other. In the time of errour, wee muſt moſt of al en<g ref="char:EOLhyphen"/>devour
+<pb facs="tcp:16052:8"/> to confute error; in the times of vngodlines in life, wee muſt contend againſt vngodli<g ref="char:EOLhyphen"/>nes in converſation. Now be<g ref="char:EOLhyphen"/>cauſe this time preſent wherin we liue is the laſt time, wherein corruptio<g ref="char:cmbAbbrStroke">̄</g> of ma<g ref="char:cmbAbbrStroke">̄</g>ners ſhal moſt abou<g ref="char:cmbAbbrStroke">̄</g>d, according to the predi<g ref="char:EOLhyphen"/>ction of the Apoſtle, the which wee ſee with our eies to be too true: I haue choſen rather to ſpeake of the neceſſitie of good works to ſaluatio<g ref="char:cmbAbbrStroke">̄</g>, as moſt befit<g ref="char:EOLhyphen"/>ting this time, then againſt er<g ref="char:EOLhyphen"/>ror in doctrine (though I haue not altogither omitted to ſpeak ſome thing againſt it) ſeeing that now moſt men offende in lewdneſſe of life, more then in errour of doctrine. If any doubt whether this time wherein we
+<pb facs="tcp:16052:8"/> liue, be the latter or laſt times or no, let him but conferre the prophecie of theſe tvvo times, with the euent which hath fal<g ref="char:EOLhyphen"/>len out, &amp; he may eaſily be re<g ref="char:EOLhyphen"/>ſolved. The Apoſtle Paul ſpea<g ref="char:EOLhyphen"/>king of the latter daies, wherin error in doctrine ſhould abou<g ref="char:cmbAbbrStroke">̄</g>d ſaith:<note place="margin">1. Tim. 4.1</note> 
+               <hi>now the ſpirite ſpeaketh e<g ref="char:EOLhyphen"/>vidently, that in the latter daies ſome ſhal depart from the faith, and ſhall giue heede to ſpirite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of errour, and doctrines of divels, which ſpeake lies through hypo<g ref="char:EOLhyphen"/>criſie, and haue their conſcien<g ref="char:EOLhyphen"/>ces burned with an hot yro<g ref="char:cmbAbbrStroke">̄</g>.</hi> That this latter time began in the A<g ref="char:EOLhyphen"/>poſtles time, and holdeth vntil the revealing of Antichriſt, the ſame Apoſtle ſheweth in an o<g ref="char:EOLhyphen"/>ther place, vvhere he ſaith, <hi>the
+<pb facs="tcp:16052:9"/> myſterie of iniquitie doth alrea<g ref="char:EOLhyphen"/>die worke,</hi>
+               <note place="margin">2 Theſſ 2.</note>
+               <note place="margin">Chryſoſt. <hi>2.</hi> The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>2.</hi> hom <hi>4.</hi> Ambroſ <hi>2.</hi> Theſ. <hi>2.</hi> Hierom in Dan. <hi>7</hi> &amp; queſt <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1</hi> ad Algaſ. Ter<g ref="char:EOLhyphen"/>tull de re<g ref="char:EOLhyphen"/>ſurrec. car. Lactan l <hi>7</hi> Aug. lib <hi>20</hi> cap <hi>19</hi> Zancheus in <hi>2,</hi> Theſ <hi>2</hi> Oſiander in <hi>2</hi> Theſs <hi>2</hi> &amp; epit hiſt eccl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. cen<g ref="char:EOLhyphen"/>tur <hi>7.</hi> lib. <hi>1</hi> &amp; lequent. Plat. de Bo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>if <hi>3.</hi> Func Cron. de Phoca &amp; Bon. <hi>3.</hi>
+               </note> 
+               <hi>onely hee which nowe with-holdeth ſhal let, vntil he be taken away.</hi> He which hindred Antichriſts authority then, was the greate power of the Empe<g ref="char:EOLhyphen"/>rour of Rome, who would hin<g ref="char:EOLhyphen"/>der the power of the man of ſinne, vntill he, that is, the Em<g ref="char:EOLhyphen"/>perour ſhould be taken avvaie; as hiſtories, the event, and ex<g ref="char:EOLhyphen"/>poſitours doe teſtifie vnto vs; when the power of the Empe<g ref="char:EOLhyphen"/>rour ſhould bee Eclipſed, then the man of ſinne ſhould exalte himſelfe aboue all that is cal<g ref="char:EOLhyphen"/>led God, or is worſhipped; that hee ſhoulde ſit in the temple of God, ſhewing himſelfe that he is God, which in the Popes of Rome hath already beene veri<g ref="char:EOLhyphen"/>fied,
+<pb facs="tcp:16052:9"/> exalting themſelues a<g ref="char:EOLhyphen"/>boue God, taking vnto them<g ref="char:EOLhyphen"/>ſelues the authoritie of God, making lavves to be obſerved vpon no leſſe daunger of eter<g ref="char:EOLhyphen"/>nal damnation; then the laws of God: diſpenſing againſt the plaine worde of God, abroga<g ref="char:EOLhyphen"/>ting the commaundemente of God, to eſtabliſh their owne. This the ma<g ref="char:cmbAbbrStroke">̄</g> of ſinne hath fini<g ref="char:EOLhyphen"/>ſhed, according as it hath been foretolde of him. But his pride ſhal bee abated, and hee ſhal come to an ebb, as the ſame A<g ref="char:EOLhyphen"/>poſtle foretelleth;<note place="margin">2. Theſſ 2.8 Eſay 11.4.</note> ſaving <hi>that the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d will conſume him with the ſpirit of his mouth,</hi> that is, by the preaching of his goſpel. By this means we ſee the king<g ref="char:EOLhyphen"/>dom of Antichriſt now brought
+<pb facs="tcp:16052:10"/> to a very lowe ebbe, and his madneſſe made manifeſt to al men,<note place="margin">2 Theſſ. 2. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i. 12.</note> ſaving in ſome fewe, to whom God hath <hi>ſent ſtrong de<g ref="char:EOLhyphen"/>luſions,</hi> that they may bee dam<g ref="char:EOLhyphen"/>ned, becauſe they loued not the trueth. Antichriſt being reuea<g ref="char:EOLhyphen"/>led and made manifeſt, nowe follovveth the laſt time, this time preſent wherein we nowe liue; of which the Apoſtle Paul ſpeaketh. 2. <hi>Tim.</hi> 3.1. Saying, <hi>this know alſo, that in the last daies ſhall come perilous times, for men ſhall bee lovers of their owne ſelues, covetous, boaſters, prowd, curſed ſpeakers, diſobe<g ref="char:EOLhyphen"/>dient to parents, vnthankefull, vnholy, vvithout naturall affe<g ref="char:EOLhyphen"/>ction, truce-breakers, falſe ac<g ref="char:EOLhyphen"/>cuſers, intemperate, fier<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, deſ<g ref="char:EOLhyphen"/>piſers
+<pb facs="tcp:16052:10"/> of the<g ref="char:cmbAbbrStroke">̄</g> that are good, trai<g ref="char:EOLhyphen"/>tours, heady, high-minded, lovers of pleaſure more then God, ha<g ref="char:EOLhyphen"/>ving a ſhewe of godlyneſſe, but haue denyed the force of it.</hi> The Epiſt. of Iude conſiſteth,<note place="margin">2. Pet.,</note> almoſt whollie, of the deſcription of theſe ill men, of whom alſo Pe<g ref="char:EOLhyphen"/>ter forewarneth vs; the which if you reade, you ſhal haue the manners and behauiour of the men of this age preſented as liuely vnto you, as if you ſhuld ſee them al in a glaſſe at one vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w. Now (as I haue ſaide be<g ref="char:EOLhyphen"/>fore) corruption in manners being the proper diſeaſe to this age, in reaſon we ſhould bende our chiefeſt ſtrength againſt this diſeaſe, eſpeciallye ſince the reaſon whye the Apoſtles
+<pb facs="tcp:16052:11"/> foreſhevve theſe thinges is,<note place="margin">Iude 3.</note> that wee ſhould earneſtly con<g ref="char:EOLhyphen"/>tende againſt it, and that in this miſerable and perilous time, we ſhould haue compaſſion on ſome, pulling them out of the fire,<note place="margin">verſ. 22.</note> in <hi>putting a difference,</hi> as the Apoſtle Iude ſaith. He co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pares this time, to a citie ſet on fire, which when it happeneth, vvee catch at that vvhich is deareſt in our ſighte, and ſaue it from burning. We muſt put a difference according to the differe<g ref="char:cmbAbbrStroke">̄</g>ce of me<g ref="char:cmbAbbrStroke">̄</g>: for, ſome there are, who ſinne of infirmitie and weaknes, &amp; are, as the Apoſtle ſaith <hi>overtake<g ref="char:cmbAbbrStroke">̄</g> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th ſinne;</hi>
+               <note place="margin">Gal. 6 1.</note> theſe we ought, to reclaime with the ſpirit of mildnes &amp; gentlenes. Others there are who are more
+<pb facs="tcp:16052:11"/> ſtubborne and wilful; theſe wee muſt rebuke more ſharpely. A third kinde there is, vvho,<note place="margin">2. Tim. 4.2</note> ſo they may enioy their pleaſurs, care neither for God nor man; who ſay vnto vs, <hi>depart fro<g ref="char:cmbAbbrStroke">̄</g> vs,</hi>
+               <note place="margin">Iob. 21.14.15.</note> 
+               <hi>vve deſire not the knowledge of the Lorde; vvho is the Almighty that wee ſhoulde ſerue him, and what profite ſhoulde wee haue if vvee ſhould pray vnto him?</hi>
+               <note place="margin">Pſalm. 50.17. Ier. 2.24.</note> theſe kinde of men hate to bee refor<g ref="char:EOLhyphen"/>med, theſe are like thoſe wilde Aſſes vſed to the vvilderneſſe, that wil not be turned, and who ſo ſeeketh to turne them, ſhal but vvearie himſelfe,<note place="margin">Mat. 7.6. Exod. 10.29. 2. King. 3.14.</note> but not prevaile: let theſe pleaſantlie deſcende to hell, for who can turne them; wee may not <hi>giue that which is holie to dogges, nor
+<pb facs="tcp:16052:12"/> caſt pearles to ſwine,</hi> if wee doe they wil treade the<g ref="char:cmbAbbrStroke">̄</g> vnder their feete, &amp; returne and al to rent vs. Wherefore if I may bee ſo boulde to adviſe thoſe, to who<g ref="char:cmbAbbrStroke">̄</g> the care of ſoules is commit<g ref="char:EOLhyphen"/>ted, I would adviſe them to fol<g ref="char:EOLhyphen"/>low the ſteppes of our ancient Fathers, who alwaies bent their ſtudies againſt that of their time, wherin they lived, which was moſt hurtful, and the abu<g ref="char:EOLhyphen"/>ſes which then moſt abou<g ref="char:cmbAbbrStroke">̄</g>ded. Since the time of the Apoſtles, vntil within theſe fewe yeares, errour in doctrine moſt aboun<g ref="char:EOLhyphen"/>ded, therefore we ſee the godly men of that age bent their whole ſtudies to confute er<g ref="char:EOLhyphen"/>rours but nowe (God be than<g ref="char:EOLhyphen"/>ked) this diſeaſe beeing almoſt
+<pb facs="tcp:16052:12"/> cured, and as greate a diſeaſe, as the former, affecting the Church of God, in my opinion, if wee devide the worde aright and miniſter a word in due ſea<g ref="char:EOLhyphen"/>ſon, we ought eſpecially to vſe our endevour to reclaime men from vngodly behaviour, and not wholy, in theſe daies, ſpend our ſtudies and labours againſt errour in doctrine; notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ding (gentle Reader) I ſpeake not definitiuely herein, but my ſlender opinion; if I ſpeake vp<g ref="char:EOLhyphen"/>on weake groundes, I will not be ſtubborne, but am content to yeelde to men more iudici<g ref="char:EOLhyphen"/>ous. Farewell.</p>
+            <closer>
+               <signed>Yours in the Lord, <hi>JEREMY CORDEROY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:16052:13"/>
+            <pb n="3" facs="tcp:16052:13"/>
+            <head>A SHORT DIALOGVE between a Galla<g ref="char:cmbAbbrStroke">̄</g>t, a Scholler of Oxforde, and a Church-Papiſt; wherin is proved that good works are neceſſary to ſalvation.</head>
+            <epigraph>
+               <q>
+                  <hi>Ridente<g ref="char:cmbAbbrStroke">̄</g> dicere verum, quid vetat?</hi> praeſertim in hac iocoſa aetate, cum nil niſi ioci placent.</q>
+            </epigraph>
+            <sp>
+               <speaker>GAllant.</speaker>
+               <p>You are well overtake<g ref="char:cmbAbbrStroke">̄</g> ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Scholler.</speaker>
+               <p>You are welcome ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>I pray ſir how farre ride you this vvaie.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>To Oxford.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>And ſo do I: if you would ride a litle faſter, I would be glad of your company.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>For companye ſake, I vvill alter my pace.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It ſeemes you are a ſchol<g ref="char:EOLhyphen"/>ler by your attire.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>So I am.</p>
+            </sp>
+            <sp>
+               <speaker>Gal</speaker>
+               <p>Of what profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>I ſtudy di<g ref="char:EOLhyphen"/>vinity.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Then I doubt we ſhall not paſſe our vvay ſo pleaſantly as
+<pb n="2" facs="tcp:16052:14"/> I hoped I ſhould.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Why think you ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Becauſe I ſee few, or none that ſtudy it, but are given much to melancholy, and ſadnes, ſcarce fit for any company. I haue an olde acquaintance in Oxforde, who before he gaue himſelf to this ſtudy, was very pleaſant, but ſince he hath vndertaken this ſtudy, hee is cleane altered, ſcarce the ſame ma<g ref="char:cmbAbbrStroke">̄</g>: now no good-fellowſhip with him, but he is alwaies reading the Bible, or muſing, ſtill ſilent, vnleſſe you vrge him to ſpeake.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>That is a good chaunge. For in that he is alwaies reading the Bible, it is a good ſigne he is carefull to vnder<g ref="char:EOLhyphen"/>ſtand the vvord of God, vvhich is the meanes of our ſalvatio<g ref="char:cmbAbbrStroke">̄</g>:<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rom. 1. verſe 16. 1. Cor 1.8</note> in that he is co<g ref="char:cmbAbbrStroke">̄</g>tinually muſing, it is likely that he doth ruminate, &amp; meditate on that he hath read, to apply it to his vſe, &amp; conforme his life accor<g ref="char:EOLhyphen"/>ding to it, vvithout which rumina<g ref="char:EOLhyphen"/>ting
+<pb n="1" facs="tcp:16052:14"/> &amp; meditation we make ſmall vſe of our reading, but are like vnto conduits which receiue water, but keepe it not. This was prefigured vnto vs in the olde lawe of Moſes,<note place="margin">Lev. 11.2. Deut. 14.4</note> where no beaſt was clean, but ſuch as chewed the cud. Which kind of beaſtes, vvhen they haue received ſufficient food, they ſit and recal it againe, &amp; newly run over it, &amp; fit<g ref="char:EOLhyphen"/>ly prepare it for their ſtomackes, that it may ſo bee converted into their ſubſtance. In like manner, hee vvho vvill make a right vſe of rea<g ref="char:EOLhyphen"/>ding of the Scriptures, muſt after the reading thereof ponder, medi<g ref="char:EOLhyphen"/>tate, and ruminate on it, and make vſe therof for his own edification. Laſtly wheras you ſay he is very ſi<g ref="char:EOLhyphen"/>lent, it is moſt likely, he hath a care hee offende not in his tongue. For moſt commonly, <hi>multiloquium eſt ſtultiloquium,</hi> in much talke there is ſin, ſeeing wee muſt giue an accou<g ref="char:cmbAbbrStroke">̄</g>t
+<pb n="2" facs="tcp:16052:15"/> of every<note n="b" place="margin">Mat. 12.36 37.</note> idle word,</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>But what neede all this ado? I hope, I ſhalbe ſaved as vvell as he, though I pine not my ſelfe away in melancholy reading of books, I confeſſe I haue but little skil in divinity, for my hu<g ref="char:EOLunhyphen"/>mour is not that way, yet I hope I haue enough to bee ſaved; for I know Chriſt dyed for me, &amp; I be<g ref="char:EOLhyphen"/>leeue to be ſaued by him only, &amp; not by my workes, I ſtande not on them,<note place="margin">Vide Buca<g ref="char:EOLhyphen"/>num de prae<g ref="char:EOLunhyphen"/>deſtinat. queſt. <hi>50.</hi>
+                  </note> nor put any confidence in the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl</speaker>
+               <p>Why? thinke you a bare beliefe, without a careful endevor to liue according to the wil of God will be ſufficient for you to ſalvati<g ref="char:EOLhyphen"/>on?</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>O ſir, I perceiue you are of the old ſtamp, you truſt to be ſaved by your good works and holynes. I know that to be Papiſtical &amp; er<g ref="char:EOLhyphen"/>roneous, &amp; therfore I rely wholie on faith in Chriſt, and not on my workes.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>It is true, I am of the old ſtamp, of that ſtamp which the
+<pb n="3" facs="tcp:16052:15"/> old Patriarks, Prophets, and all the Elect of God haue bin: al vvhich were zealous of good works, &amp; ſtu<g ref="char:EOLunhyphen"/>dious to approue their calling ther<g ref="char:EOLunhyphen"/>by;<note place="margin">Heb. 11. Tit. 2.</note> yet am I far from that blaſphe<g ref="char:EOLhyphen"/>mous conceit of the Papiſts, which you falſely call old, but truely erro<g ref="char:EOLhyphen"/>neous, for ſo it is; &amp; no leſſe erro<g ref="char:EOLhyphen"/>neous is your ſolitary faith without good workes. This opinion of bare faith hath bin conde<g ref="char:cmbAbbrStroke">̄</g>ned, for an he reſie long ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, in the heretike Eu<g ref="char:EOLhyphen"/>nomius, vvho thought that a man might be ſaved if he had faith, how lewdly ſo ever he lived, as S. Augu<g ref="char:EOLhyphen"/>ſtine reporteth in his 54. hereſie <hi>ad Quodvultdeum,</hi> and S. Auguſtine wrote his book <hi>de correctione &amp; gra<g ref="char:EOLhyphen"/>tia,</hi>
+                  <note place="margin">Aug. tom. <hi>4</hi> li. octoginta quest c. <hi>76.</hi>
+                  </note> againſt certain that were of this errour in his time and the Apoſtle Iames tearmeth this kinde of faith,<note place="margin">Iam. 2.19.</note> 
+                  <hi>the faith of Divels,</hi> and therefore it cannot ſaue.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>I haue heard it I know not how often, that wee are
+<pb n="4" facs="tcp:16052:16"/> freely ſaved by faith without good vvorks, and therefore, I confeſſe, I haue had the leſſe regard of them.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>You haue miſtaken the mat<g ref="char:EOLhyphen"/>ter, you haue heard often that vve are iuſtified freely by faith without good works, but not ſaved without good works.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>That is al one.</p>
+            </sp>
+            <sp>
+               <speaker>Sch</speaker>
+               <p>Nay there is great difference be<g ref="char:EOLhyphen"/>tweene iuſtification, and ſalvatio<g ref="char:cmbAbbrStroke">̄</g>: to iuſtification only faith without workes ſufficeth,<note place="margin">Rom. 3.28 Gal. 2 16. Pſ 15. &amp; 24 <hi>Fox de chri<g ref="char:EOLunhyphen"/>sto gratis iuſtifi lib.</hi> 2 <hi>pag</hi> 380. Mat. 5.20. <hi>Auguſt. in Pſal.</hi> 30. <hi>&amp; deſpiritu &amp; lit. ca.</hi> 9. Rom. 8.29 Luk. 1.74. Heb. 12 14 Reve 20.6</note> but to ſalvation is more required: as firſt, predeſtina<g ref="char:EOLunhyphen"/>tion; then an effectual vocation by the preaching of the worde exter<g ref="char:EOLhyphen"/>nally, &amp; an internal operatio<g ref="char:cmbAbbrStroke">̄</g> of the holy Ghoſt; Then iuſtification by faith only; afterwards a meaſure of ſanctification, which conſiſteth of godlines of life &amp; good workes; &amp; then ſalvatio<g ref="char:cmbAbbrStroke">̄</g>; ſo that without ſan<g ref="char:EOLhyphen"/>ctification &amp; good works you ca<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>not be ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>It is a hard ſay<g ref="char:EOLhyphen"/>ing, and I hope it is not ſo, if it be
+<pb n="5" facs="tcp:16052:16"/> true, I muſt confeſſe,<note place="margin">Vide Fox<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de Christa gratis iuſti<g ref="char:EOLhyphen"/>ficante, li. <hi>2</hi> fol <hi>359.</hi> &amp; <hi>360.</hi>
+                  </note> I haue hither<g ref="char:EOLhyphen"/>to repoſed my only hope of ſalva<g ref="char:EOLhyphen"/>tion on faith without works, and I am ſo deeply ſetled in this opinion that I ſhall hardly ever alter my o<g ref="char:EOLhyphen"/>pinion.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Yet if you haue mani<g ref="char:EOLhyphen"/>feſt proofe heereof in the ſcripture, you wil alter your opinion &amp; your life.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>My opinion I ſhall, for I hold the ſcripture the only rule of truth. But for my life, I feare I muſt craue pardo<g ref="char:cmbAbbrStroke">̄</g> a while, til yeares grow on me. But I pray ſir (ſince we are entred into this matter, &amp; we haue no other matter to paſſe the time) ſhew howe you prooue this point.<note place="margin">Heb. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Exod. 40.32. Mat. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Calu. inſtit. li.</hi> 3. <hi>cap.</hi> 14 <hi>ſect.</hi> 1. <hi>&amp;</hi> 21 <hi>cap.</hi> 15 <hi>ſect</hi> 8. <hi>&amp; ca.</hi> 16 <hi>ſect.</hi> 1. 2. Pet. 1.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </speaker>
+               <p>This matter is proved not only by the godly converſation of all the Patriarkes, Prophets, and holy men of God, but alſo prefi<g ref="char:EOLhyphen"/>gured in the old law of Moſes, and ſet down in plaine tearmes in ma<g ref="char:EOLhyphen"/>ny places of the new Teſtament, as <hi>Except your righteouſnes exceeds the
+<pb n="6" facs="tcp:16052:17"/> righteouſnes of the Scribes and Phari<g ref="char:EOLhyphen"/>ſes, yee cannot enter into the kingdome of God.</hi> Now although the righte<g ref="char:EOLhyphen"/>ouſnes of the Scribes and Phariſies was farre ſhorte of theirs, who may be capable of the kingdom of hea<g ref="char:EOLhyphen"/>ven, yet even they were very care<g ref="char:EOLhyphen"/>full, not to kil, not to wrong, not to ſweare falſely or forſweare, not to commit adultery, in a word, not to breake any of the ten commande<g ref="char:EOLhyphen"/>ments in external action; notwith<g ref="char:EOLhyphen"/>ſtanding they were careful &amp; pre<g ref="char:EOLhyphen"/>cize herein, yet our Savior plainly pronounceth; That <hi>excepte our righteouſneſſe exceede the r ghteouſ<g ref="char:EOLhyphen"/>neſſe of the Scribes and Phariſies w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e cannot enter into the kingdome of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>If to abſtaine from killing, ſvvearing, adulterie, and the reſt which you haue reckoned vp, be not ſufficient, God helpe me, &amp; a great many moe beſides me; what would you haue vs to do?</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Our
+<pb n="7" facs="tcp:16052:17"/> Savior in that place ſheweth, that we ought not only to abſtain from the breach of theſe commaunde<g ref="char:EOLhyphen"/>ments in externall action, but alſo abſtaine from evill thoughtes: as namely we ſhould not luſt after a woman;<note place="margin">Mat. 5.28.</note> for <hi>hee that looketh on a vvoman to luſt after her, hath alrea<g ref="char:EOLhyphen"/>dye committed adulterie in his hearte:</hi> This luſt the Scribes and Phari<g ref="char:EOLhyphen"/>ſies thought no breach of the law. Again, he requireth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we ſhould not ſvveare at all, in our ordinary talke, but our affirmatio<g ref="char:cmbAbbrStroke">̄</g>s ſhould be yea yea, &amp; our negations, nay nay: The Scribes &amp; Phariſies thought they offended not, in taking the name of the Lord in vaine in ordi<g ref="char:EOLhyphen"/>nary talke, ſo they ſwore not falſe<g ref="char:EOLhyphen"/>ly. Againe the Scribes and Pha<g ref="char:EOLhyphen"/>riſies thought they might take an eie for an eie, and a tooth for a tooth; &amp; that they might revenge a wrong to the vtmoſt, ſo that their
+<pb n="8" facs="tcp:16052:18"/> revenge were not greater then the wrong received, but our Savior re<g ref="char:EOLhyphen"/>quireth that vvee ſhould not reſiſt evil: if any man take away our coat we muſt giue him our cloake alſo: if any man ſtrike vs on the one cheek, we muſt turne to him the o<g ref="char:EOLhyphen"/>ther alſo.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>And do you indeed think in conſcience you are bound to doe this?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Yes without al doubt.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Then, by your good fa<g ref="char:EOLhyphen"/>vour, I meane to eaſe you of your cloake and purſe; but firſt I vvill proue your patience. I muſt take my fiſt from your right eare, then you vvil turne me the other. Why how now? wil ye reſiſt?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Why not ſit?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>O, I did but proue whe<g ref="char:EOLunhyphen"/>ther you would ſtand to your do<g ref="char:EOLhyphen"/>ctrin or no: I meant you no harme, but you ſee that you will ſpeake a great deale more then you wil do.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Why ſay you ſo<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Becauſe cven in your laſt words, you ſaide
+<pb n="9" facs="tcp:16052:18"/> you were bound in co<g ref="char:cmbAbbrStroke">̄</g>ſcience, not to reſiſt evill, &amp; that if any wil take your cloake away, you muſt giue him your coate alſo; and that if one ſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke you on one cheeke, you muſt turne him alſo the other: yet you ſee, you obſerue none of all this.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Sir you much miſtake the matter, if you thinke that theſe ſpeeches: <hi>reſiſt not evill:</hi>
+                  <note place="margin">Aug. Epict. <hi>5.</hi> ad Mar<g ref="char:EOLhyphen"/>cellinum. Peter Mar<g ref="char:EOLunhyphen"/>tyr locis comm. claſ<g ref="char:EOLhyphen"/>ſe. <hi>4</hi> ca. <hi>15.</hi> ſect. <hi>7<g ref="char:punc">▪</g> 8.</hi>
+                  </note> 
+                  <hi>if any take your cloake avvaie, giue him your coate alſo:</hi> and, <hi>if any ſtrike you on the one cheeke, turne alſo the other:</hi> it you think (I ſay) theſe ſpeeches are meant ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olutely, and alvvaies to be done. For the only drift of our Sav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or in theſe ſpeeches is, to con<g ref="char:EOLhyphen"/>fute the falſe opinio<g ref="char:cmbAbbrStroke">̄</g> of the Scribes and Phariſies, vvho thought it no offence to do wrong for vvrong, ſo that their requitall vvere not grea<g ref="char:EOLhyphen"/>ter then the vvrong done them; he tels them that they may not reſiſt evil, that is maliciouſly hurt again,
+<pb n="10" facs="tcp:16052:19"/> if they bee vvronged. As for to re<g ref="char:EOLhyphen"/>ſiſt evill (but not vvith evil, that is, revenge with malice and wronge) it hath beene vſed allvvaies of the godly,<note place="margin">Exod. 2.12.</note> oppoſing the<g ref="char:cmbAbbrStroke">̄</g>ſelues againſt the wicked practiſes of the vngod<g ref="char:EOLhyphen"/>ly; yea our Saviour Chriſt not only reproved <hi>thoſe that ſould do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es in the te<g ref="char:cmbAbbrStroke">̄</g>ple,</hi>
+                  <note place="margin">Mark 11.15</note> but alſo <hi>overthrew the tables of the mony-changers, and whipt them out of the temple; Paule withſtoode Peter to the face,</hi>
+                  <note place="margin">Gal 2.11.14</note> vvhen he went wrong. A<g ref="char:EOLhyphen"/>gaine wee are not alwaies bounde to giue our cloake to him that will take our coate away;<note place="margin">Calvin. in<g ref="char:EOLhyphen"/>ſtitut. lib. <hi>4.</hi> cap. <hi>20.</hi> ſect. <hi>20.</hi>
+                  </note> for this is ſpo<g ref="char:EOLhyphen"/>ken reſpectiuely and not abſolute<g ref="char:EOLhyphen"/>ly, that is, rather yeelde our cloak vnto him, then maliciouſly vvith<g ref="char:EOLhyphen"/>ſtand him; elſe vvhy hath God ap<g ref="char:EOLhyphen"/>pointed vs iudges and magiſtrates, if we may not vſe their help?<note place="margin">Act. 22.1. &amp; 24.12. &amp; 25.10</note> whe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>as Paul was falſly accuſed he with<g ref="char:EOLhyphen"/>ſtood his enemies, &amp; vſed the help of magiſtrates, appealing to Ceſar;
+<pb n="11" facs="tcp:16052:19"/> vvhich no doubt hee vvoulde not haue done, if it had bin vnlavvfull. Laſtly, <hi>if one ſtrike you on the one cheek turne alſo the other,</hi> theſe vvordes muſt be vnderſtood as thoſe words of our Saviour Chriſt, vvhere hee ſaieth,<note place="margin">Luk. 14 26. Mat 10 37</note> 
+                  <hi>if any hate not father and mo<g ref="char:EOLhyphen"/>ther, he is not worthy of me,</hi> where his meaning is not that anye ſhoulde hate his Father and Mother, or not loue &amp; obey the<g ref="char:cmbAbbrStroke">̄</g>. But he meaneth, if it ſhall come to this rump, that they muſt either forſake father &amp; mother, or CHRIST, their loue to their favior ought to be ſo great, that they ſhould hate father or mo<g ref="char:EOLunhyphen"/>ther, rather then forſake Chriſt. So likewiſe, when we haue received a blovv on the one cheeke, we muſt turne alſo the other, if it ſhal make for the glory of God ſo to do; or ra<g ref="char:EOLunhyphen"/>ther bee buffeted on both ſides then to malice the party wronging vs. Nowe, that we are not bound
+<pb n="12" facs="tcp:16052:20"/> ſimply to turne the other ſide, if a<g ref="char:EOLhyphen"/>ny giue vs a blowe on the cheeke, except it wil make for the glory of God, it is moſt manifeſt by our Sa<g ref="char:EOLhyphen"/>vior chriſt himſelfe, who is the beſt interpreter of himſelfe, &amp; the beſt expou<g ref="char:cmbAbbrStroke">̄</g>der of his own meaning who vvhen as hee vvas ſtriken, turned not the other ſide vnto him that ſmote him, but reproved him for ſo doing:<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 18.23.</note> 
+                  <hi>if I haue evil ſpoken, ſaith he beare witneſſe of the evill: but if I haue well ſpoken, why ſmiteſt thou me?</hi> where you may ſee that whe<g ref="char:cmbAbbrStroke">̄</g> he was ſtro<g ref="char:EOLhyphen"/>ken he did not offer himſelfe to be ſtroke<g ref="char:cmbAbbrStroke">̄</g> againe; ſo that you may ſee, theſe wordes, <hi>if one ſtrike you on the one cheek turn alſo the other to him,</hi> are not alwaies to be obſerved, but vp<g ref="char:EOLhyphen"/>on ſome circu<g ref="char:cmbAbbrStroke">̄</g>ſtaunces. So likewiſe when Paul was ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itte<g ref="char:cmbAbbrStroke">̄</g>, he doth not offer himſelfe to be ſmitten again but reprooveth the high Prieſt for co<g ref="char:cmbAbbrStroke">̄</g>manding him to be ſmitten, ſay<g ref="char:EOLhyphen"/>ing,
+<pb n="13" facs="tcp:16052:20"/> 
+                  <hi>god wil ſmite thee, &amp;c.</hi>
+                  <note place="margin">Act 23.3</note> He<g ref="char:cmbAbbrStroke">̄</g>ce may you ſee that I break not thoſe com<g ref="char:EOLunhyphen"/>mandementes in denying you my purſe &amp; cloak, &amp; in refuſing to bee beate<g ref="char:cmbAbbrStroke">̄</g> at your ha<g ref="char:cmbAbbrStroke">̄</g>ds, ſith it maks not for the glory of God for you either to rob me for beat me. And I may without brech of charity deny you both.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>If theſe places are ſo to be vnderſtood, <hi>I</hi> muſt co<g ref="char:cmbAbbrStroke">̄</g>feſſe your deedes haue not ſwarved fro<g ref="char:cmbAbbrStroke">̄</g> your doctrine. But <hi>I</hi> meant a little to be pleaſa<g ref="char:cmbAbbrStroke">̄</g>t with you. Now pray ſit pro<g ref="char:EOLunhyphen"/>ceede in that which you vvere a<g ref="char:EOLhyphen"/>bout to ſay, concerning the neceſ<g ref="char:EOLhyphen"/>ſitie of works to ſalvation. If your doctrine be true, <hi>I</hi> muſt take an o<g ref="char:EOLhyphen"/>ther courſe, or els I ſhal never come to heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>For the proofe of it, harken and then iudge. Beſides the place which <hi>I</hi> haue already na<g ref="char:EOLhyphen"/>med concerning the righteouſnes of the Scribes and Phariſies, which was an external obſervation of the
+<pb n="14" facs="tcp:16052:21"/> law, whoſe righteouſneſſe farre ex<g ref="char:EOLhyphen"/>ceeded the righteouſnes, of many in theſe our daies, who notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ding vainely perſwade themſelues they ſhalbe ſaved (I terme it a vain perſwaſion, becauſe, if an externall obſervation of the law, ſuch as was the Phariſies, be not ſufficie<g ref="char:cmbAbbrStroke">̄</g>t, much leſſe manifeſt breakers of the law, and ſuch as continue therein, can bee ſaved) beſides this place (I ſay) there are many, &amp; moſt plaine to prooue the neceſſity of good<g ref="char:EOLhyphen"/>workes to ſalvation: as that of the Apoſtle,<note place="margin">Heb. 12.14</note> 
+                  <hi>followe peace with all men, &amp; holynes, without the which no man ſhall ſee God;</hi> without a peaceable &amp; ho<g ref="char:EOLhyphen"/>ly converſation, then, no man can be ſaved. Iohn pronounceth thoſe only <hi>bleſſed,</hi>
+                  <note place="margin">Rev. 20.6.13.</note> 
+                  <hi>who haue their part in the firſt reſurrection for</hi> (ſaith he) <hi>on ſuch the ſeconde death hath no power.</hi> If they onely are bleſſed, who haue their parte in the firſt reſurrection,
+<pb n="15" facs="tcp:16052:21"/> which is holynes of life, then with<g ref="char:EOLhyphen"/>out good vvorkes no man can bee ſaved, &amp; further in the ſame chap<g ref="char:EOLhyphen"/>ter hee ſaieth (having the day of iudgment repreſented to him in a viſion) that <hi>he ſaw that every one was iudged, according to his works,</hi> that is, ſuch as had done good, to everla<g ref="char:EOLhyphen"/>ſting life, &amp; ſuch as had done evill to everlaſting fire: as it is alſo in the Athanaſian Creede: &amp; our Saviour Chriſtes vvords are moſt plaine in this point.<note place="margin">
+                     <hi>Mat 7.21.</hi> L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge Chry<g ref="char:EOLhyphen"/>ſoſtomum in haec verba tom. <hi>2.</hi>
+                  </note> 
+                  <hi>Not everie one that ſaieth vnto me, Lord, Lord ſhal enter into the kingdome of heaven, but hee that doeth the will of my fa her, he ſhall enter into the kingdom of heave<g ref="char:cmbAbbrStroke">̄</g>.</hi> And further in the ſame chapter he doth more il<g ref="char:EOLhyphen"/>luſtrat the point by the example of 2. builders: <hi>He that heareth my words and doth them, I will liken him to a wiſe ma<g ref="char:cmbAbbrStroke">̄</g> which builded his houſe on a rocke, and when the raine fell, and the fluddes came, &amp; the wind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> blew, &amp; beate vpon
+<pb n="16" facs="tcp:16052:22"/> that houſe, it fell not, for it was grou<g ref="char:cmbAbbrStroke">̄</g>ded on a rocke. But vvho ſo heareth my words, &amp; doth them not ſhall be likened to a fooliſh ma<g ref="char:cmbAbbrStroke">̄</g> which buildeth his houſe on the ſandes, ſo that when the raine, winde, and flowds came and beate on it, it fell.</hi> Here he ſignifieth that they which endevour to doe the will of God ſhall never fall, no not in the day of iudgment:<note place="margin">Pſal. 1.5.</note> &amp; contrarywiſe <hi>the vvicked ſhall not be able to ſtand in iudgement.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>
+                  <hi>I</hi> graunt, if a man vvill ſeeke to get to heaven by his workes he muſt doe this, but mee thinkes the Scripture teacheth an eaſier way, namely by ſaith onely, &amp; ſure <hi>I</hi> am fullie perſwaded, that if <hi>I</hi> come vnto God with a ſtronge faith, he will not reiect mee.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>your ſtrong faith will proue a ſtro<g ref="char:cmbAbbrStroke">̄</g>g preſumption, if it bee deſtitute of good workes,<note place="margin">Calv in c. <hi>18.</hi> ver. <hi>17.</hi> Ezech. <hi>Mat. 22.</hi>
+                  </note> which point our Sa<g ref="char:EOLhyphen"/>viour Chriſt doth make moſt ma<g ref="char:EOLhyphen"/>nifeſt by the parable of a Kinge
+<pb n="17" facs="tcp:16052:22"/> who bidde certaine gueſtes to the wedding, but whe<g ref="char:cmbAbbrStroke">̄</g> ſome made ex<g ref="char:EOLhyphen"/>cuſes, ſome ſet light by it whe<g ref="char:cmbAbbrStroke">̄</g> they were invited, he ſent the ſeco<g ref="char:cmbAbbrStroke">̄</g>d time &amp; ſome evil intreated his ſervants: Wherefore the King being vvorth deſtroied thoſe murtherers, &amp; ſent the third time, &amp; commanded his ſervant to goe into the high waies, and as many as they coulde finde, bid them to the m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iage; then his ſervants went, &amp; brought all they could finde both good and badde; ſo the wedding was furniſhed with gueſtes, then the King.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Nay, nay, goe no further, you haue ſaid enough, and as much as <hi>I</hi> can wiſh for you ſay that the good &amp; badde are received, and <hi>I</hi> am ſure, if <hi>I</hi> bee not one of the good, <hi>I</hi> ſhall bee one of the badde: beleeue mee, it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a very comfortable place.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Nay but deceaue not your ſelfe, ſuch catching at pieces of the
+<pb n="18" facs="tcp:16052:23"/> Scripture is the cauſe of many er<g ref="char:EOLhyphen"/>rours; you offend againſt principal rules of interpreting the Scripture: we may not beleeue that the ſcrip<g ref="char:EOLunhyphen"/>ture teacheth any thing contrarie to the nature of God,<note place="margin">Ang de do<g ref="char:EOLhyphen"/>ctrina Chriſt. lib. <hi>3.</hi> cap. <hi>3.</hi>
+                  </note> and if any place ſeeme to vs ſo to doe, we vn<g ref="char:EOLhyphen"/>derſta<g ref="char:cmbAbbrStroke">̄</g>d it not aright. Now wheras out of this place you (miſco<g ref="char:cmbAbbrStroke">̄</g>ſtruing it) vvoulde conclude, that which is contrary to the nature of GOD, namely that God receiveth the wicked into his kingdom, God al<g ref="char:EOLhyphen"/>loweth not of the wicked,<note place="margin">Pſa. 11.5.</note> nay <hi>hee hateth them,</hi> &amp; hath prepared ever<g ref="char:EOLhyphen"/>laſting tormentes for them. God being good, yea goodneſſe it ſelfe, cannot but abhorre that vvhich is badde. Beſides this, in interpreting the ſcripture, you muſt take heede, that you doe not make one place co<g ref="char:cmbAbbrStroke">̄</g>trary to an other, as in this your interpretation you do, and that a<g ref="char:EOLhyphen"/>gainſt plaine &amp; evident places; as
+<pb n="19" facs="tcp:16052:23"/> that in the 25.41. of Matthew, &amp; in the 21.27. of the Revelation. In the former wherof is plainly ſhew<g ref="char:EOLhyphen"/>ed that the wicked and mercileſſe ſhal go into everlaſting fier: In the latter, that no vncleane thing ſhall enter into the kingdom of heave<g ref="char:cmbAbbrStroke">̄</g>. Againe, in interpreting the Scrip<g ref="char:EOLhyphen"/>ture, you may not ſingle out words or ſentences, without having con<g ref="char:EOLhyphen"/>ſideration of the principall drifte vvhither they tende, but conſider that which went before with that which follows after:<note place="margin">Aug lib <hi>3.</hi> cap <hi>3.</hi>
+                  </note> which precept if you had obſerved in the place which I was about to ſpeak of, you would haue made a contrary con<g ref="char:EOLhyphen"/>cluſio<g ref="char:cmbAbbrStroke">̄</g> to that, that you haue made, Suff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r mee therefore to alleadge the whole place, and then if you will, reply.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>I pray then goe on.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>The gueſtes being come, the King came to ſee his gueſt, &amp; ſavv a man not having a wedding gar<g ref="char:EOLhyphen"/>ment
+<pb n="20" facs="tcp:16052:24"/> (this vvedding garment, by the conſent of al writers, is charity conſiſting of good works) the king co<g ref="char:cmbAbbrStroke">̄</g>mandes his ſervants to <hi>take him, and binde him hande and foote, and caſt him into vtter darknes, where ſhall be w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ing and gnaſhing of teeth<g ref="char:punc">▪</g>
+                  </hi> this ma<g ref="char:cmbAbbrStroke">̄</g> came to the Kings Sonnes<g ref="char:punc">▪</g> vved<g ref="char:EOLhyphen"/>ding and tooke himſelfe to be a bidden gueſt, ſupplied the roume of a gueſt, as many now a daies ſup<g ref="char:EOLunhyphen"/>ply a ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me in the church of Chriſt &amp; be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re the name of Chriſtians, as hee the name of a gueſt, vntill the time ofte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the<g ref="char:cmbAbbrStroke">̄</g> being found with<g ref="char:EOLhyphen"/>out a wedding garme<g ref="char:cmbAbbrStroke">̄</g>t, muſt looke for the ſame doome. This point is manifeſted alſo by the ſentence of the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fooliſh virgins, who came alſo to the wedding, but were ſhut out becauſe they had no oile in their lamp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: all therfore that come, are not received, come they never ſo co<g ref="char:cmbAbbrStroke">̄</g>fidently, except they be qua<g ref="char:EOLhyphen"/>lified
+<pb n="21" facs="tcp:16052:24"/> with ſome meaſure of regene<g ref="char:EOLunhyphen"/>ration,<note place="margin">Ioh 3. Mat. 19.28</note> without which no man can enter into the kingdome of God. And leſt you might imagine that this is done to ſome few for exam<g ref="char:EOLhyphen"/>ple ſake, to cauſe the reſt to be more carefull of their life and con<g ref="char:EOLhyphen"/>verſation,<note place="margin">Rev. 3.17.</note> and ſo you notwithſtan<g ref="char:EOLhyphen"/>ding may eſcape this ſeverity, marke further vvhat our Saviour ſaith in another place; <hi>Many ſhall come vnto me in that day, &amp; ſay, Lord,</hi>
+                  <note place="margin">Mat. 7.21.</note> 
+                  <hi>Lorde, haue not vvee pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phecied in thy name; and by thy name caſt out devils? and by thy name done many, and greate works? then wil I profeſſe to them</hi> (ſaith our Saviour) <hi>I never knew you, depart from me ye that worke iniquity.</hi> Mark well theſe wordes, <hi>many ſhall come,</hi> yea, plead an intereſt in Chriſt, be<g ref="char:EOLhyphen"/>cauſe in his name they had pro<g ref="char:EOLhyphen"/>pheſied, caſt out devils, and done great &amp; many workes: Yet for al y<hi rend="sup">e</hi> they are caſt of, becauſe they were
+<pb n="22" facs="tcp:16052:25"/> wicked men. A man may haue the the ſpirite of propheſying, power to caſt out Devils by the helpe of God, power to do great and manie miracles, and yet be a caſtaway, if he haue not the ſpirit of regenera<g ref="char:EOLhyphen"/>tion, wherby only he loueth God, and delighteth in doing his vvill. wherfore flatter not your ſelf with bare ſolitary faith deſtitut of good works, which kind of faith is not a ſaving faith.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>But I am ſure I haue heard it often read, &amp; prea<g ref="char:EOLhyphen"/>ched too, that if a man haue faith, it is ſufficient.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>It is true, beeing truely vnderſtood. So likewiſe it is ſaid,<note place="margin">Ioh. 17.3.</note> 
+                  <hi>this is life euerlaſting to know thee the only living God, &amp; whom thou haſt ſent Ieſus Chriſt;</hi> if you doe not ex<g ref="char:EOLhyphen"/>pound this place by conferring it with other places of the Scripture, you may as vvell conclude that a bare knowledge of Chriſt, or God is ſufficient to eternall life, without
+<pb n="23" facs="tcp:16052:25"/> any faith in him, or loue towards him. Then may you conclude, that they vvho prophecied in Chriſtes name, caſt out devils, and did great &amp; many works in his name, ſhalbe ſaved, though wicked men: co<g ref="char:cmbAbbrStroke">̄</g>tra<g ref="char:EOLhyphen"/>ry to the expreſſe words of our Sa<g ref="char:EOLhyphen"/>viour; for they al knew Chriſt. Nay then the very devils are more ſure to be ſaved then any man, for their knowledge of god is more perfect then the knovvledge of men,<note place="margin">Mark. 5.7.</note> yet the ſcripture is moſt plain that they ſhal not be ſaved. But confer this place with others, &amp; you ſhall proue that this is not generally to bee vnderſtoode of everie knovv<g ref="char:EOLhyphen"/>ledge, but truely of one kinde of knowledge,<note place="margin">Ioh. 1.24.</note> which is ſpecified by Iohn, vvhere hee ſaith, <hi>if any ſaith I know God, and keep not his commande<g ref="char:EOLhyphen"/>ments, he is a lyar, and the truth is not in him, but he that keepeth his word, in him is the loue of God indeed, and here<g ref="char:EOLhyphen"/>by
+<pb n="24" facs="tcp:16052:26"/> we know that we are in him.</hi> So the<g ref="char:cmbAbbrStroke">̄</g>, that knovvledge vvhich hath the loue of God ioyned with it, which loue is manifeſted by a deſire &amp; a delight of doing the wil of God, is the ſaving knowledge before me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tioned, and no other knowledge: which ſaving knowledge cannot poſſibly be in the vvicked or in the devil. For they only know God, but loue him not, which is manife<g ref="char:EOLhyphen"/>ſted in that they by loue ſeeke not to doe his will and pleaſe him. The like general ſpeech you haue of our Saviour where he ſaieth,<note place="margin">Mat. 7.7.</note> 
+                  <hi>to him that knocketh it ſhall be opened, and to him that asketh it ſhall bee given;</hi> vvhich vvordes if you ſimplie vnderſtand without exception, many abſurdi<g ref="char:EOLhyphen"/>ties wil follow. The fiue fooliſh vir<g ref="char:EOLhyphen"/>gins knocked, yet vvere they not admitted: they that caſt our devils in Chriſts name, and did great and many workes thereby, asked, but
+<pb n="25" facs="tcp:16052:26"/> obtained not; wherefore wee muſt goe further, &amp; ſeeke the true mea<g ref="char:EOLhyphen"/>ning of theſe words, by confere<g ref="char:cmbAbbrStroke">̄</g>ce of them vvith other places of the Scripture. Our Saviour ſaith,<note place="margin">Mat. 6.14.15.</note> 
+                  <hi>if you forgiue other men their trespaſſes your heavenly father vvill forgiue you your treſpaſſes, but if you forgiue not other men, no more will your heavenly father forgiue you your treſpaſſes,</hi> and David ſaith, <hi>if I applie my heart to wickednes,<note place="margin">Pſ. 65.18.</note> the Lord will not heare my praier,</hi> and Salomon ſaith, <hi>the praier of the wic<g ref="char:EOLhyphen"/>ked is an abhomination to the Lord,</hi>
+                  <note place="margin">Prov. 15.8</note> &amp; the Lord refuſeth the praiers of the Iews, becauſe their hands were full of blood, becauſe they were oppre<g ref="char:EOLunhyphen"/>ſore of the poore, but <hi>waſh you,</hi>
+                  <note place="margin">Eſay. 1.16.</note> ſaith the Lord, <hi>learne to do well, ſeeke iudg<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t, releeue the oppreſſed, iudge the fa<g ref="char:EOLhyphen"/>therleſſe, &amp; defraud not the widdowes, then if thy ſins were as crimſo<g ref="char:cmbAbbrStroke">̄</g>, they ſhal be as whit as ſnow,</hi> David ſaith,<note place="margin">Pſal. 33.18 19.</note> 
+                  <hi>the eies of the Lorde are over thoſe that feare
+<pb n="26" facs="tcp:16052:27"/> him, and vpon them that truſt in his mercy, to deliuer their ſoules fro<g ref="char:cmbAbbrStroke">̄</g> death.</hi> And Peter ſaith, <hi>the eies of the Lorde are over the righteous, and his eares are open to their praiers;</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pet. 3. i2</note> by theſe places now may you ſee, how thoſe wordes are to be vnderſtood, <hi>to e<g ref="char:EOLhyphen"/>verie one that knocketh it ſhall bee o<g ref="char:EOLhyphen"/>pened, and to everie one that aſ<g ref="char:EOLhyphen"/>keth it ſhall be geven,</hi> that is, not eve<g ref="char:EOLhyphen"/>ry one without exception for you ſee other places tell you that the praier of the wicked is an abhomi<g ref="char:EOLhyphen"/>nation vnto the Lord:<note place="margin">Ioh. 15.7.</note> but <hi>of them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat loue and feare the Lord, and ende<g ref="char:EOLhyphen"/>vour to keep his co<g ref="char:cmbAbbrStroke">̄</g>mandeme<g ref="char:cmbAbbrStroke">̄</g>ts,</hi> if they knock or aſke, it ſhal be opened &amp; graunted, to every one with<g ref="char:EOLhyphen"/>out exception. So in like ma<g ref="char:cmbAbbrStroke">̄</g>ner, in your aſſertion, namely that if a ma<g ref="char:cmbAbbrStroke">̄</g> hath faith it is ſufficient, if you abſo<g ref="char:EOLunhyphen"/>lutely vnderſtand any faith, many abſurdities will follovv<g ref="char:punc">▪</g>
+                  <note place="margin">Iam. 2.19.</note> for there is a faith of Divels vvhich if it vvere
+<pb n="27" facs="tcp:16052:27"/> ſufficient to ſalvation, then the di<g ref="char:EOLhyphen"/>vils may bee ſaved. For they ac<g ref="char:EOLhyphen"/>knowledge Chriſt to be the ſonne of God. There is an hiſtorical faith,<note place="margin">Mark. 5.7.</note> &amp; a faith of doing miracles which the wicked haue; yet it ca<g ref="char:cmbAbbrStroke">̄</g>not ſaue them; according to that of the A<g ref="char:EOLhyphen"/>poſtle, <hi>if I had all faith,</hi>
+                  <note place="margin">1. Cor. 10.2.</note> 
+                  <hi>ſo that I could remoue mountaines, and had not loue, it were nothing.</hi> It muſt bee then ſuch a faith which hath with it the loue of God &amp; our brethren, it muſt be ſuch a faith <hi>which worketh by charity,</hi>
+                  <note place="margin">Gal. 5.6. Ephe. 6.6.</note> a working faith (I ſaie) and not an idle faith, much leſſe ſuch a faith as is ſpotted with vngodlines. Not a<g ref="char:EOLhyphen"/>ny faith then is ſufficient, but ſuch a faith which is accompanied with good workes and newneſſe of life,</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Well be it that good vvorkes be required to ſalvatio<g ref="char:cmbAbbrStroke">̄</g>, yet ſay that I liue vngodly all the dayes of my life, vntill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſee I muſt departe this world, I thinke I haue hearde ſome
+<pb n="28" facs="tcp:16052:28"/> wordes in the Scripture, which im<g ref="char:EOLhyphen"/>port thus much, that it is not then too late to repent. I cannot repeat the wordes themſelues, but ſuch words there are, the which (to tell you the truth) haue made me take a little the more liberty in my de<g ref="char:EOLhyphen"/>lights.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>I thinke you meane theſe words, at what time ſoever <hi>a ſinner doth repent him of his iniquitie I vvill put out all the remembrance of his ſinnes from me,</hi>
+                  <note place="margin">Ezec. cap. 33.11.</note> 
+                  <hi>ſaith the Lord,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Yes the ſame, the<g ref="char:cmbAbbrStroke">̄</g> you ſee it is ſuf<g ref="char:EOLhyphen"/>ficient for a man to ſalvation, even whe<g ref="char:cmbAbbrStroke">̄</g> he dieth to repe<g ref="char:cmbAbbrStroke">̄</g>t.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>If theſe words haue given you an occaſion of greater liberty in your delights, that is, in plaine tearmes, an occaſi<g ref="char:EOLhyphen"/>on of ſinning more freely, you are one of who<g ref="char:cmbAbbrStroke">̄</g> the Apoſtle propheſied long ſince, ſaving that <hi>in the latter times ſhall come certaine men,</hi>
+                  <note place="margin">Iude 4. 1. Pet. 1. 2. Tim. 3.4.</note> 
+                  <hi>who will turne the grace of God into wantonnes;</hi> yea, <hi>vvho will loue their pleaſures more
+<pb n="29" facs="tcp:16052:28"/> the<g ref="char:cmbAbbrStroke">̄</g> God,</hi>
+                  <note place="margin">Luk. 1.74. Epheſ. 1.4 1. Pet. 2.24. and 2. Peter. 1.5.</note> you make a cleane co<g ref="char:cmbAbbrStroke">̄</g>trary vſe of the promiſes of the goodnes &amp; patience of the Lorde towardes ſinners, to that wherefore they are promiſed. For, ſaith the Apoſtle, <hi>the goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes, long ſuffering, and patience of God,</hi>
+                  <note place="margin">Ro. 2.6.7.</note> 
+                  <hi>is ſhewed to lead men to repenta<g ref="char:cmbAbbrStroke">̄</g>ce &amp; amendment of life,</hi> the which who ſo abuſeth, <hi>hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth vp wrath to him<g ref="char:EOLhyphen"/>ſelfe againſt the day of iudgement, who will reward every man according to his workes,</hi>
+                  <note place="margin">2. Tim. 2.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and (expounding himſelfe) ſaith, that is, <hi>to them who by continu<g ref="char:EOLhyphen"/>ance,</hi> (marke well vvhat he ſaith, e<g ref="char:EOLhyphen"/>ven as if he plainely foreſaw ſome would vainely flatter themſelues, that it wil be ſufficient to repente, as they falſely call it, at the laſt caſt and breath) therefore he addeth <hi>to the<g ref="char:cmbAbbrStroke">̄</g> that by co<g ref="char:cmbAbbrStroke">̄</g>tinuance in well doing ſeek<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> life everlaſting.</hi> But leſt you ſhould fl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter your ſelf in your ſins &amp; promiſe vnto your ſelfe ſalvatio<g ref="char:cmbAbbrStroke">̄</g> without warrant of the worde of
+<pb n="30" facs="tcp:16052:29"/> God, firſt knowe this, that theſe words, <hi>At what time ſoever,</hi> are not in any texte of the bible, yet are they agreeable to the vvorde of God beeing rightly vnderſtoode; that is, whenſoever a ſinner forſa<g ref="char:EOLhyphen"/>ſaketh his vngodlineſſe, and doth that which is right and good, cra<g ref="char:EOLhyphen"/>ving pardon of God for his former ill life, God will not impute his for<g ref="char:EOLhyphen"/>mer ſinnes vnto him, but will par<g ref="char:EOLhyphen"/>don &amp; remit his ſinnes for Chriſts merites. But in that ſence that you take them, neither the words the<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſelues, <hi>At what time ſoever,</hi> can be fou<g ref="char:cmbAbbrStroke">̄</g>d in any place of the ſcripture, neither are they conſonant to any place of the ſcripture, namely, that though a man liue in vngodlineſſe all the dayes of his life, and at the very iump when he departeth this life, then bee ſorry for that which is paſt, hee may be ſaved, notwith<g ref="char:EOLhyphen"/>ſtanding he hath paſſed his whole
+<pb n="31" facs="tcp:16052:29"/> life in vngodlyneſſe. I ſay ſuch a man ſo living &amp; ſo doing,<note place="margin">Aug. tom <hi>10</hi> lib. <hi>50.</hi> ho<g ref="char:EOLhyphen"/>mil. cap. <hi>41.</hi> Chriſoſt. hom. <hi>19</hi> in <hi>4</hi> geneſis. Calvin Zanch. Heming. et omnes ſani<g ref="char:EOLhyphen"/>ores inter<g ref="char:EOLhyphen"/>prat. in ver<g ref="char:EOLunhyphen"/>ſum. <hi>13. 2.</hi> Theſsa. <hi>2</hi> et Eph. <hi>2.10</hi>
+                  </note> can haue no warrant in all the ſcripture, that hee ſhall be ſaved. The repentance which the ſcripture requireth, is not a bare co<g ref="char:cmbAbbrStroke">̄</g>ceived greefe for that which is paſt, peruſe you the words of the Prophet Ezech. 33. whence they are taken, and you ſhal mani<g ref="char:EOLhyphen"/>feſtly ſee, that there muſt be a do<g ref="char:EOLhyphen"/>ing of that which is good &amp; right. and an eſchewing of that which is ill, which cannot be done in an in<g ref="char:EOLhyphen"/>ſtaunte or moment. The wicked may repent and bee ſorry for that which is paſt, yet ſhall they not be forgiven. For as the wicked may haue ſome kinde of faith,<note place="margin">1. King. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mat. 27.3. Maca 2 9. Calvin. in<g ref="char:EOLhyphen"/>ſtit lib. 3. cap. 3 ſect. 3. &amp; 5. &amp; ſequent.</note> and yet bee damned, ſo may they haue ſome kinde of repentance and yet bee damned. But that you may more clearely ſee you miſtake the meaning of theſe words, taking it as if it were generall to all ſortes of
+<pb n="32" facs="tcp:16052:30"/> ſinners,<note place="margin">Fox de Chriſto gra<g ref="char:EOLunhyphen"/>tis iuſtifi<g ref="char:EOLhyphen"/>cante lib. <hi>2.</hi> fol. <hi>323.</hi>
+                  </note> vvhe<g ref="char:cmbAbbrStroke">̄</g>as in deed it is meant but to one kinde of ſinners: if you vvill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightly vnderſtand the mea<g ref="char:EOLhyphen"/>ning of theſe vvords, you muſt co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſider that there are tvvo ſortes of ſinners: The one kinde are preſu<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>tuous ſinners, in vvhom ſinne raig<g ref="char:EOLhyphen"/>neth, vvho not only delight and continue in ſin,<note place="margin">Pſal. 11.2 Ioh 9.31. Rom 1.31 1. Tim. 1.9 1: Pet. 4 18</note> but alſo giue them ſelues vvholy over as ſlaues vnto ſin: The other kinde of ſinners are ſuch as ſin of infirmity, vvho when they are overtaken with ſinne, are grieved at it, &amp; ſory for it, they co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tinue not in it,<note place="margin">Rom. 7. 2. Ioh. 3.9.</note> they hate it, they al<g ref="char:EOLhyphen"/>lovv not of it, they endevour to re<g ref="char:EOLhyphen"/>ſiſt it. Novve vvhen it is ſaid that <hi>at vvhat time ſoever a ſinner doth re<g ref="char:EOLhyphen"/>pent him of his ſinnes,</hi>
+                  <note place="margin">Lege Bul<g ref="char:EOLhyphen"/>lingeru<g ref="char:cmbAbbrStroke">̄</g> in <hi>3.</hi> Apocal.</note> 
+                  <hi>God vvill for<g ref="char:EOLhyphen"/>giue him,</hi> it is to be vnderſtoode on<g ref="char:EOLhyphen"/>ly of that ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de of ſinners, who ſin of infirmitie and vveakeneſſe, and not of preſumptuous ſinners, for theſe kinde of ſinners he doth giue
+<pb n="33" facs="tcp:16052:30"/> over to a reprobate ſence.<note place="margin">Rom. 1.24 Epheſ. 4. 2. Theſſ. 2.11. Heb. 6.4.</note> That all kinde of ſinners cannot claime the benefite of this promiſe, it is mani<g ref="char:EOLhyphen"/>feſt by diverſe places of the Scrip<g ref="char:EOLhyphen"/>ture. <hi>It is impoſſible</hi> (ſaith the author to the Hebrews) <hi>that they which were once lightened, and haue taſted of the heavenly guift, &amp; were made partakers of the holy Ghoſt, if they fal away ſhould be received again by repentance.</hi> And againe he ſaith,<note place="margin">Heb. 10.26</note> 
+                  <hi>If vve ſinne willinglie af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er that we haue received the know<g ref="char:EOLhyphen"/>ledge of the truth, there remaines no more ſacrifice for ſinnes.</hi> Which tvvo places, though moſt me<g ref="char:cmbAbbrStroke">̄</g> take it for the ſin againſt the holy Ghoſt, who<g ref="char:cmbAbbrStroke">̄</g> I gain<g ref="char:punc">▪</g> ſay not, yet they proue thus much, that ſome cannot haue the benefite of repentance, &amp; therfore that ſpeech <hi>At what time ſoever a ſinner doth repente him, &amp;c.</hi> is not generall vvithout exception. Yet know further, that not only thoſe who ſin againſt the holy Ghoſt, but
+<pb n="34" facs="tcp:16052:31"/> alſo they who ſin of preſumption, &amp; they in whom ſin raigneth, can<g ref="char:EOLhyphen"/>not challendge the benefit of this promiſe. Conſider what the Lorde himſelfe ſaith, <hi>He that bleſſeth him<g ref="char:EOLhyphen"/>ſelfe when he heareth the curſe againſt ſuch as tranſgreſſe againſt the law, ſay<g ref="char:EOLhyphen"/>ing, I ſhal haue peace, though I walk af<g ref="char:EOLhyphen"/>ter the ſtubbornneſſe of mine own hart, I vvill not be mercifull to ſuch an one</hi> (ſaieth the Lorde) <hi>but all the curſes written in the covenant ſhal come vpon him;</hi>
+                  <note place="margin">Deu. 29.19</note> againe in another place the Lord ſaith vnto ſinners of this kind namely againſt the daughters of Iſrael.<note place="margin">Hoſ. 4.14.</note> 
+                  <hi>Whe<g ref="char:cmbAbbrStroke">̄</g> your daughters are harlots I wil not viſit them,</hi> ſignifying there<g ref="char:EOLhyphen"/>by, that hee will not giue them the meanes of repentaunce, whereby they may be ſaved,<note place="margin">Prov. 1.28</note> &amp; God by the mouth of Salomon ſaieth of theſe kinde of ſinners, <hi>they ſhall cal vpon me, but I will not anſwer, they ſhal ſeek me early, but they ſhal not finde me, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="35" facs="tcp:16052:31"/> they hated knowledge, and did not chuſe my feare, they woulde none of my counſailes, but deſpiſed my corrections.</hi> Thus dealt the Lord with his cho<g ref="char:EOLhyphen"/>ſe<g ref="char:cmbAbbrStroke">̄</g> city Ieruſale<g ref="char:cmbAbbrStroke">̄</g>,<note place="margin">Mat. 23.37.</note> which refuſing the meanes, and neglecting the times of her ſalvatio<g ref="char:cmbAbbrStroke">̄</g>, was reiected of the Lord: thus the Lord dealt with the Church of the Thyatireans, wherin was Iezabel,<note place="margin">Revel. 2, 21</note> 
+                  <hi>he gaue her a time to re<g ref="char:EOLhyphen"/>pent, and ſhee did not,</hi> therefore vvas ſhee deſtroied. As for the other ſort of ſinners, who offend of infirmity, though they fal many times a day, yet they riſe againe, &amp; turne vnto the Lorde, diſallowing that which they haue done, hating it,<note place="margin">1. Ioh. 3.9, 14.</note> and ſtri<g ref="char:EOLhyphen"/>ving againſt it: nether can they de<g ref="char:EOLhyphen"/>light and like of ſinne, but ſtriue a<g ref="char:EOLhyphen"/>gainſt it, no more then a loving childe abide the diſgrace of his fa<g ref="char:EOLhyphen"/>ther. The reaſon hereof is, becauſe they haue the ſpirit of God dwel<g ref="char:EOLhyphen"/>ling in them,<note place="margin">Rom. 8.14</note> and they <hi>are led by the
+<pb n="36" facs="tcp:16052:32"/> ſpirit of God,</hi> which cauſeth them to liue a godly, &amp; a ſa<g ref="char:cmbAbbrStroke">̄</g>ctified life, with out the which there is no ſalvatio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>A hard ſaying. Is it altogither impoſſible the<g ref="char:cmbAbbrStroke">̄</g>, that a man may be ſaved except he haue lived a godly life?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>As impoſſible as it is for a Cammell to goe through the eie of a needle, as to bee caſt into the fire, and not be burnt, as to be caſt downe a high ſteepe Tovvre and not be hurt. I grant that the Lorde is aboue his lavve given to men, &amp; therefore can if hee vvill diſpenſe vvith his ovvne lavve, but whoſo<g ref="char:EOLhyphen"/>ever will liue an vngodly life, pre<g ref="char:EOLhyphen"/>ſuming to bee ſaved, becauſe God can ſaue him, doth as fooliſhly as if he ſhould caſt himſelf into the fire,<note place="margin">Dan 3.25. Pſ 91.11, 12</note> preſuming that God vvil preſerue him from burning, becauſe he can; or caſt himſelfe from a high tower preſuming that God will preſerue him from hurting, becauſe he can.
+<pb n="37" facs="tcp:16052:32"/> God can do many things that hee vvill never doe, among which this is one, that he wil not ſaue the wic<g ref="char:EOLhyphen"/>ked that continue in vngodlynes vntil their liues end; which may be proved by many reaſons.<note place="margin">Firſt rea- 1 Tim. 5.21 25. 1 Theſſ 4.7. Mat 19.28 Rom. 8.</note> As firſt thoſe whom hee hath ordained to ſalvation, hee not only calleth, but alſo ſanctifieth, but they that liue continually in vngodlines h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue no part of ſanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication, and therfore no part of glorification. Now leaſt you ſhould think that the Apoſtle meaneth that ſanctification onely which is in Chriſt, &amp; is imputed to vs by faith, and not alſo ſome meaſure of inherent ſanctificatio<g ref="char:cmbAbbrStroke">̄</g>, marke vvell vvhat hee ſaith in the ſame Chapter, ſhewing what kind of men they are that ſhal be ſaved.<note place="margin">Verſ 1.</note> 
+                  <hi>there is no condemnation to thoſe that are in Chriſt;</hi> Now leaſt the wicked (as many of them do ſhould chal<g ref="char:EOLhyphen"/>lendge a part in Chriſt, hee ſhevv<g ref="char:EOLhyphen"/>eth
+<pb n="38" facs="tcp:16052:33"/> who are in Chriſt: ſaying, <hi>who liue not after the fleſh, but after the ſpi<g ref="char:EOLhyphen"/>rite,</hi> that vvholly yeelde not them<g ref="char:EOLhyphen"/>ſelues as ſlaues to their carnal luſts, but ſuch as delighte in a ſpirituall life conformable to the vvorde of God. They then that ſhal be ſaved muſt haue ſome inherent ſanctifi<g ref="char:EOLhyphen"/>cation. And in an other place he ſhevveth, that they, vvho are ap<g ref="char:EOLhyphen"/>pointed to inherite the kingdome of God, are by the goodnes of God preordained, that they ſhall liue a godly life before they ſhall enter into the kingdome of God; ſaying <hi>we are the workemanſhip of God, crea<g ref="char:EOLhyphen"/>ted in Ieſus Chriſt vnto good vvorkes, which God hath ordained,</hi>
+                  <note place="margin">Eph. 2.10.</note> 
+                  <hi>that vve ſhould liue in them.</hi> If God hath pre<g ref="char:EOLhyphen"/>ordained that they, who ſhal inhe<g ref="char:EOLhyphen"/>rit his kingdome, ſhal liue a god<g ref="char:EOLhyphen"/>ly life, bringing forth good works, ſo that as our Saviour ſaith, <hi>by their fruits you ſhall know them,</hi>
+                  <note place="margin">Mat. 7.16.</note> howe can
+<pb n="39" facs="tcp:16052:33"/> anye hope to bee ſaved vvithout good vvorks? This point, that they vvhich ſhall bee ſaved ſhall liue a godly life, is ſo manifeſt in the ſcrip<g ref="char:EOLunhyphen"/>ture as nothing more. The Lorde himſelfe proteſteth concerninge theſe. That he will put <hi>his feare in their heartes,</hi>
+                  <note place="margin">Ier. 32.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ezec. 11.19.20. &amp; cap. 36.26</note> 
+                  <hi>that they ſhall never de<g ref="char:EOLhyphen"/>part from him, and that he will put a new spirit in their bowels, &amp; take away their stony harts out of their bodies, &amp; will giue them a heart of fleſh, that they may walke in his ſtatuts.</hi> Yea the care of obſerving the wil of God, in the elect, ſhal be ſuch and ſo eminent, that <hi>whoſoeuer ſeeth them ſhall knowe them therby.</hi>
+                  <note place="margin">Eſay 61.</note> 
+                  <hi>For as the earth bringeth forth her bud, and the garden cauſeth that which is ſowen in it, to grow, ſo will the Lord cauſe righteouſnes to grow in them,</hi> ſaith the Prophet. And our Saviour ſaith,<note place="margin">Ioh. 14.2 24.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f any loue mee he vvil keepe my commandements, but he that loveth me not, keepeth not my comman<g ref="char:EOLhyphen"/>dements.</hi>
+                  <pb n="40" facs="tcp:16052:34"/> And againe he ſaith,<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 13.35</note> 
+                  <hi>by this ſhal all men know that yee are my diſci<g ref="char:EOLhyphen"/>ples, if yee keepe my commandement<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi> A ſecond reaſon<note place="margin">Second reaſon.</note> may be give<g ref="char:cmbAbbrStroke">̄</g> why God will not receiue thoſe, vvho defer their converſion to God, by newneſſe of life, vntil the laſt gaſp, hoping that that will be ſufficient if they cal for mercy then<g ref="char:punc">▪</g> Becauſe our Saviour doeth pronounce this general propoſition,<note place="margin">Mat 10.33</note> that <hi>he that de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ieth him before men, he will denie him before his father in heaven:</hi> now ſuch as liue vngodly, vvithout a care of doing the wil of the Lord (though they profeſſe him in their mouths,<note place="margin">1 Sam 2.12 Tit 1.16. They pro<g ref="char:EOLhyphen"/>feſſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y know god, but by their work they deny him. 2. Tim. 3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> yea though they beleeue and ac<g ref="char:EOLhyphen"/>knowledge all the Articles of the Creed, yea haue knowledge of the Scripturs) yet if they liue vngodly, they deny God, and therefore ſhal be denied, if you will bee tryed by the Scripture, vvho ſo defineth of them as denyers of God, A thirde
+<pb n="41" facs="tcp:16052:34"/> reaſon why they ſhal not be recei<g ref="char:EOLhyphen"/>ved,<note place="margin">Third rea<g ref="char:EOLunhyphen"/>ſon</note> who deferre their converſion vnto God vntill their departing out of this life, is, becauſe it is not poſſible that then they can haue a true repentance.<note place="margin">
+                     <hi>Mark 1.4.</hi> Calvinſti. lib <hi>3</hi> cap <hi>3</hi> ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. <hi>3 5.</hi> &amp; ſequent.</note> For a true repen<g ref="char:EOLhyphen"/>tance cannot be without his eſſen<g ref="char:EOLhyphen"/>tial parts, one eſſential part where<g ref="char:EOLhyphen"/>of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewnes of life,</hi> &amp; what newnes of life can they haue vvho are de<g ref="char:EOLhyphen"/>parting this life? That this newnes of life is an eſſential part of true re<g ref="char:EOLhyphen"/>pentance, it is manifeſt by the do<g ref="char:EOLhyphen"/>ctrine of Iohn the Baptiſt prea<g ref="char:EOLhyphen"/>ching repenta<g ref="char:cmbAbbrStroke">̄</g>ce,<note place="margin">Mat 3.8. Act 26.1.19.20.</note> who whe<g ref="char:cmbAbbrStroke">̄</g> he ſaw the Phariſies reſort to his baptiſm of repentance, men repoſing the<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſelues wholy on the faith of their father Abraham, ſaith vnto them, ſay not within your ſelues <hi>we haue Abraham to our Father,</hi> but bring forth fruites worthy amendement of life, for every tree that bringeth not foorth good fruite, is hewen
+<pb n="42" facs="tcp:16052:35"/> downe, &amp; caſt into the fier, it is not ſufficient to feare God, for ſo did Pharaoh. It is not ſufficient to be ſo<g ref="char:EOLunhyphen"/>rie for that which is paſt, for ſo was Caine, Eſaw, and Iudas, nay Iudas went farther, he was not only ſorie for that which was paſt, but alſo co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>feſſed his ſinne, acknowledged the Innocencie of Chriſt, and reſtored his vnlavvfull gotten goods (ha<g ref="char:EOLhyphen"/>ving heerein a better conſcience the<g ref="char:cmbAbbrStroke">̄</g> many cruel oppreſſors in theſe daies, vvho come ſhorte of him in this point) yet was it not a true re<g ref="char:EOLhyphen"/>pentaunce; ſo did the Emperour Maximinus who tyra<g ref="char:cmbAbbrStroke">̄</g>nically dealt with the Chriſtians,<note place="margin">
+                     <hi>Euſeb. lib.</hi> 8. <hi>c.</hi> 17. 18.</note> vntill he fel in<g ref="char:EOLhyphen"/>to a ſore diſeaſe, as he thought, paſt recovery; then in his ſickneſſe be<g ref="char:EOLhyphen"/>thinking himſelfe how cruelly hee had handled the Chriſtians, &amp; per<g ref="char:EOLhyphen"/>ſwading himſelfe that he was puni<g ref="char:EOLhyphen"/>ſhed with that ſoare diſeaſe, for his cruelty againſt them, preſently he
+<pb n="43" facs="tcp:16052:35"/> commaunded edictes to be given out vvith all expedition, that the Chriſtians ſhould bee dealte with, in al curteous manner, and their goods ſhoulde bee reſtored them, their Temples reaedified, and de<g ref="char:EOLhyphen"/>ſired them that they vvould pray for him; vvhich beeing done hee vvas reſtored to his former health; being recovered to health, hee falleth as hotely to perſecute them as ever he did. So that you may ſee, though the vvicked in ſuch caſes of extremity, ſhew ſome token of repentance,<note place="margin">1. Kings 21 27. Fourth reaſon. Prov. 15 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eſay 1.14 Pſa 66.18. Pſa. 62.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. Mat. 16 17 Rom 2.6. Rev. 22.12</note> as alſo <hi>did A<g ref="char:EOLhyphen"/>hab:</hi> Yet it is but a baſtarde repen<g ref="char:EOLhyphen"/>tance, it proceedeth only of feare, and not of loue, and therfore can<g ref="char:EOLhyphen"/>not bee accepted as a true repen<g ref="char:EOLhyphen"/>tance. A fourth reaſon why ſuch ſhall not be receiued, is becauſe their praier is an abhomination vn<g ref="char:EOLunhyphen"/>to the Lord, much leſſe accepted of, as it hath beene proved before.
+<pb n="44" facs="tcp:16052:36"/> The fift reaſon,<note place="margin">The firſt reaſon Rom. 2.</note> is becauſe God wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> iudge every man according to hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> works. And laſtly true repenta<g ref="char:cmbAbbrStroke">̄</g>ce is not in the power of man, but a ſpecial gift of God,<note place="margin">The ſixt reaſon. Iames 1.</note> beſtowed onlie on the elect, vvho alway haue his true feare in them, ſo that they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un not into ſuch exceſſe of ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the wicked doe,<note place="margin">1. Ioh. 3.9.</note> 
+                  <hi>becauſe they are borne of God and haue alwaies his ſeed in th. m:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>You ſay wel, repentance is the gift of God, it is not in my power, it is God (ſay you) that putteth his ſpirit in his elect, which cauſeth the<g ref="char:cmbAbbrStroke">̄</g> to liue a godly life, far better then other me<g ref="char:cmbAbbrStroke">̄</g>. If the<g ref="char:cmbAbbrStroke">̄</g> I liue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot as they do, blame me nor, when God ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l put that holy ſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it in mee, vvhich will make me willing to keepe his law, I ſhall then l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue as honeſtly as they, but yet I haue it not.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>It is ſaid in the ſcripture,<note place="margin">Prov. 19.3</note> 
+                  <hi>the fooliſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er<g ref="char:EOLhyphen"/>verteth his own waies, &amp; his hart free<g ref="char:EOLhyphen"/>teth againſt the Lorde,</hi> when Adam
+<pb n="45" facs="tcp:16052:36"/> had fooliſhly conſented to his wife <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o eate the forbidden fruit, he con<g ref="char:EOLhyphen"/>cealeth his owne fault, &amp; excuſeth himſelfe, laying the fault, in a man<g ref="char:EOLhyphen"/>ner, on God; ſaying,<note place="margin">Gen. 3.12.</note> 
+                  <hi>the woman that thou gaveſt me, gaue it mee.</hi> Wicked men, vvho willingly and wilfully break the co<g ref="char:cmbAbbrStroke">̄</g>mandements of God, beeing <hi>carried awaye with their own luſts,</hi>
+                  <note place="margin">Iames 1.24</note> lay the fault on God that they do not liue as they ſhold, as if God had put ſuch wickednes into their hart ſo to doe, when as on the con<g ref="char:EOLhyphen"/>trary God calleth them earely and late,<note place="margin">Deut. 28.</note> ezhorteth them with the bleſ<g ref="char:EOLunhyphen"/>ſings of this life, and of the life to come, threatneth the obſtinate, &amp; oftentimes layeth puniſhme<g ref="char:cmbAbbrStroke">̄</g>ts on them, that they may know them<g ref="char:EOLhyphen"/>ſelues, yet for all this they will not regarde him, though he vſeth long ſuffering, and giue them time to re<g ref="char:EOLhyphen"/>pent, whoſe patience they miſvſe and miſconſter, according to that
+<pb n="46" facs="tcp:16052:37"/> teſtimonye vvhich Salomon gi<g ref="char:EOLhyphen"/>veth of them.<note place="margin">Eccl. 8.11. Eſay 26 10 Pſa. 50.21</note> 
+                  <hi>Becauſe (ſaith he) ſen<g ref="char:EOLhyphen"/>tence againſt an evill worke is not ſpee<g ref="char:EOLhyphen"/>dily executed, therfore their hart is fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ly ſet to doe evill.</hi> Yea they imagine that God regardeth not vvhat is done here on earth. But to turne to your words, wherein you would not be blamed though you liue not according to the will of God, aſcri<g ref="char:EOLhyphen"/>bing the fault hereof to God. Par<g ref="char:EOLhyphen"/>do<g ref="char:cmbAbbrStroke">̄</g> me if I flatter you not. I ſay the fault is yours, &amp; you are highly to be blamed. For hee that will liue godly, muſt vſe ſuch meanes to bring himſelfe therevnto as GOD hath appointed; hee that vvil pro<g ref="char:EOLhyphen"/>long his naturall life muſt vſe ſuch meanes as God hath appointed therevnto, as meats &amp; drinks, elſe he ca<g ref="char:cmbAbbrStroke">̄</g>not, &amp; if he refuſe it, he is guil<g ref="char:EOLunhyphen"/>ty of his own death. In like ma<g ref="char:cmbAbbrStroke">̄</g>ner, he that wil liue a ſpiritual life, muſt vſe ſuch meanes as God hath ap<g ref="char:EOLhyphen"/>pointed
+<pb n="47" facs="tcp:16052:37"/> thervnto; as reading of his word, freque<g ref="char:cmbAbbrStroke">̄</g>ting of ſermons, prai<g ref="char:EOLhyphen"/>ers, frequenting of godly mens co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>pany, &amp; by having co<g ref="char:cmbAbbrStroke">̄</g>ference with the<g ref="char:cmbAbbrStroke">̄</g>. Which things it appeareth by your own confeſſion, you haue not vſed, &amp; therfore no marvel though you haue no delight in a godly life</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Wel, wel no more I pray you. It is pitty ſuch doctrine ſhoulde be publikely preached, it would make many diſpaire.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>The revealed worde of God muſt be preached, though the wicked take offence at it; predeſtinatio<g ref="char:cmbAbbrStroke">̄</g> is an excellent do<g ref="char:EOLhyphen"/>ctrine, yet it is a ſtumbling blocke to many, vvho careleſly ſay vvhen they heare of it; if we be pred ſti<g ref="char:EOLhyphen"/>nated to eternall life, our ill life wil not make vs reprobates, if we be re<g ref="char:EOLunhyphen"/>iected, our good life vvill not pre<g ref="char:EOLhyphen"/>vaile, that we may be ſaved; &amp; vpo<g ref="char:cmbAbbrStroke">̄</g> this falſe collection, they run into al manner of lewdnes, not conſide<g ref="char:EOLhyphen"/>ring
+<pb n="48" facs="tcp:16052:38"/> that thoſe whom he hath or<g ref="char:EOLunhyphen"/>dained to everlaſting life, not only muſt, but alſo will liue a holy life. If there bee any that will take an of<g ref="char:EOLhyphen"/>fence at this doctrine of repe<g ref="char:cmbAbbrStroke">̄</g>tance &amp; good works, it wil be ſuch as are or haue been deſperately wicked: as for thoſe that are not gone to that hight of wickednes, they will (when they heare this doctrin) be<g ref="char:EOLunhyphen"/>come more zealous of good works and walk more warily, redeeming their time, leſt they overpaſſe the time of their repentance, know<g ref="char:EOLunhyphen"/>ing that if they haue not oile in their lamps, they ſhall be excluded the wedding. And if this doctrine were not co<g ref="char:cmbAbbrStroke">̄</g>venie<g ref="char:cmbAbbrStroke">̄</g>t to be publiſhed ſo many not able me<g ref="char:cmbAbbrStroke">̄</g> of God would not haue publiſhed it,<note place="margin">De doctri<g ref="char:EOLhyphen"/>na Chriſti<g ref="char:EOLhyphen"/>ana lib. <hi>1.</hi> cap. <hi>19.</hi> ide<g ref="char:cmbAbbrStroke">̄</g> lib. <hi>20.</hi> ca <hi>6</hi> de civitate dei.</note> Auguſtin, he ſaith, that there are two ſortes of deaths of the ſoule, the one in this life, vvhich is a renouncing of his former ill manners and wickednes
+<pb n="49" facs="tcp:16052:38"/> which is done by a true repenta<g ref="char:cmbAbbrStroke">̄</g>ce, the other in the world to come; &amp; concludeth in the end of the ſame Chapter, that except the ſoule dy<g ref="char:EOLhyphen"/>eth in this world, and begin to bee formed <hi>according to the image of God,</hi>
+                  <note place="margin">Rom. 8.29</note> ſhe ſhal not come to the heavenly bleſſednes, but to eternal puniſh<g ref="char:EOLhyphen"/>ment, alluding to thoſe vvordes in the Revelations, <hi>Bleſſed is bee that hath his part in the firſt reſurrectio<g ref="char:cmbAbbrStroke">̄</g>,</hi>
+                  <note place="margin">Rev. 20.6.</note> 
+                  <hi>for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſuch the ſecond death hath no power.</hi> And in an other place the ſame Au<g ref="char:EOLunhyphen"/>guſtin ſheweth this point proving it by the example of David,<note place="margin">De doctri<g ref="char:EOLhyphen"/>na chriſtia<g ref="char:EOLhyphen"/>na. l. <hi>3.</hi> c. <hi>2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </note> vvho whe<g ref="char:cmbAbbrStroke">̄</g> his wicked ſon Abſolom was caught betweene the cliftes of the tree, by the necke, &amp; was ſudden<g ref="char:EOLhyphen"/>ly put to death. David lament<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him ſore: But whe<g ref="char:cmbAbbrStroke">̄</g> his you<g ref="char:cmbAbbrStroke">̄</g>g childe died, aſſoone as he had notice of it, he reioiced; the cauſe he lamented the one, was becauſe he knew, hee went into everlaſting torments be<g ref="char:EOLunhyphen"/>cauſe
+<pb n="50" facs="tcp:16052:39"/> he dyed a wicked man, and had not time to repent, and yet he hung a good vvhile before he was dead, and might haue cryed Lord haue mercy on me, if that woulde haue ſerved: But the innoce<g ref="char:cmbAbbrStroke">̄</g>t child he lamented not, becauſe hee had no cauſe to doubt of his ſalvation.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Stay pray; me thinks you haue ſpoke<g ref="char:cmbAbbrStroke">̄</g> that now, which overthrow<g ref="char:EOLhyphen"/>eth all that you haue ſpoken, you ſay that David doubted not of the ſalvatio<g ref="char:cmbAbbrStroke">̄</g> of the child, I pray ſir what good works could the poore you<g ref="char:cmbAbbrStroke">̄</g>g infant haue? hee had none and yet ſaved. Beſides when you mention the hanging of Abſolom, you put me in minde of an obiectio<g ref="char:cmbAbbrStroke">̄</g> which you wil hardly anſwere, namely of the theefe who was crucified whe<g ref="char:cmbAbbrStroke">̄</g> our Saviour was crucified; he vvas ſaved without good works, &amp; why not I?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Whe<g ref="char:cmbAbbrStroke">̄</g> I ſay that no ma<g ref="char:cmbAbbrStroke">̄</g> can bee ſaved without ſome mea<g ref="char:EOLhyphen"/>ſure
+<pb n="51" facs="tcp:16052:39"/> of ſanctification and good workes, I vnderſtand alwaies,<note place="margin">Fulke in his notes vpon lam. cap. 1 25. the margi<g ref="char:EOLunhyphen"/>nal. note.</note> that ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nary courſe which God vſeth in bringing his elect to the inioy<g ref="char:EOLhyphen"/>ing of his kingdome, even as Paule ſpeaketh of f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h, that vvithout faith is impoſſible to pleaſe God, and faith commeth by the hearing of God; word. Yet in young chil<g ref="char:EOLhyphen"/>dren this kind of faith is not requi<g ref="char:EOLhyphen"/>red, but in thoſe only who at come to yeeres &amp; diſcretion. So neither is that inhere<g ref="char:cmbAbbrStroke">̄</g>t ſanctificatio<g ref="char:cmbAbbrStroke">̄</g> which conſiſteth in good works and ho<g ref="char:EOLhyphen"/>lines of life required in you<g ref="char:cmbAbbrStroke">̄</g>g chil<g ref="char:EOLhyphen"/>dren, but they are ſaved after an ex<g ref="char:EOLunhyphen"/>traordinary ma<g ref="char:cmbAbbrStroke">̄</g>ner, namely becauſe they are co<g ref="char:cmbAbbrStroke">̄</g>tained in the covenant of God with Abraha<g ref="char:cmbAbbrStroke">̄</g> &amp; his ſeed. So that this overthroweth nothing of that which I haue ſaid. Co<g ref="char:cmbAbbrStroke">̄</g>cerning the other parte of your obiection of the theefe, who was ſaved with out good works, &amp; therefore there
+<pb n="52" facs="tcp:16052:40"/> is no cauſe but you may be alſo, in theſe words you doe, as if a robber on the high way ſhould thus reaſo<g ref="char:cmbAbbrStroke">̄</g> though I know that to rob one on the high vvaye, by the ordinary courſe of the lavves of this Realm, is death, and ordinarily ſuch offen<g ref="char:EOLhyphen"/>ders are executed, yet I know one that by the extraordinary favor of the Prince, vvas ſpared, therfore I vvill robbe too: for I ſee no cauſe vvhy I ſhould not be ſaved as vvel as he. You vvould thinke ſuch a fellovve notoriouſly fooliſh vvho ſhould do thus. But vvhereas you ſay the theefe had no workes, it is not ſo; For as ſoone as hee came to the knowledge of Chriſt, ſtraighte vvay he ſhevved his faith by good vvorkes, and for his time, he had after he came to the knowledge of Chriſt, no man did ever ſo much. The Apoſtles forſooke Chriſt, but he (though he knew to defend the
+<pb n="53" facs="tcp:16052:40"/> innocency of Chriſt, was to accuſe Pilate, the high Prieſts, the Scribes, Phariſies, Elders, &amp; the people of extreame iniuſtice) ſtood to the de<g ref="char:EOLunhyphen"/>fence of our Savior, ſaying <hi>this man hath done nothing amiſſe;</hi> acknowled<g ref="char:EOLhyphen"/>ged his godhead, &amp; reproved his fellovv reviling Chriſt, <hi>feareſt thou not God,</hi>
+                  <note place="margin">Luk. 23.40</note> 
+                  <hi>ſeeing thou art in the ſame da<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>nation?</hi> confeſſed his ſinnes <hi>vve are iuſtlie puniſhed;</hi> And laſtlye prai<g ref="char:EOLhyphen"/>ed vnto him, <hi>Lord reme<g ref="char:cmbAbbrStroke">̄</g>ber me when thou commeſt to thy kingdome;</hi> &amp; yet you ſay you ſee no reaſo<g ref="char:cmbAbbrStroke">̄</g> why you ſhould not be ſaved as well as he. If you can ſhew that you haue bin as carefull to ſet foorth the glory of God, ever ſince you came to the knovvledge of Chriſt, as hee vvas, you ſay ſomevvhat, elſe your caſe is not alike with his. His ſins vvere ſinnes of ignorance, but you ca<g ref="char:cmbAbbrStroke">̄</g>not plead ignora<g ref="char:cmbAbbrStroke">̄</g>ce, for it ca<g ref="char:cmbAbbrStroke">̄</g>not be, but you haue ofte<g ref="char:cmbAbbrStroke">̄</g> heard, <hi>that every one
+<pb n="54" facs="tcp:16052:41"/> that wil cal on the name of Chriſt,</hi>
+                  <note place="margin">2. Tim. 2.19.20.</note> 
+                  <hi>muſt depart fro<g ref="char:cmbAbbrStroke">̄</g> iniquity,</hi> els ſhal he not be a fit veſſel for the kingdom of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Tuſh, what tell you me of this and that? That I muſt be careful to learne the word of God, I muſt be diligent in frequenting Sermons, frequent the co<g ref="char:cmbAbbrStroke">̄</g>pany of thoſe that are godlye, and liue a godly life. I pray anſwere me but this<g ref="char:punc">▪</g> Is not e<g ref="char:EOLhyphen"/>very one already either ordained to everlaſting life, or everl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtinge damnation?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Can that which God hath alreadye de<g ref="char:EOLhyphen"/>creed of the<g ref="char:cmbAbbrStroke">̄</g> be altered?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>No,</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Why the<g ref="char:cmbAbbrStroke">̄</g>, what talk you idle<g ref="char:EOLhyphen"/>ly and abſurdly? As if it any thing availeth vvhat I nowe doe, either good or badde; ſince the decree of God cannot be altered, vvhatſoe<g ref="char:EOLhyphen"/>ver I do.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>It is true which you ſay, that the ordinaunce of God al<g ref="char:EOLhyphen"/>ready decreed cannot be altered. Yet your illatio<g ref="char:cmbAbbrStroke">̄</g> hereof is very falſe
+<pb n="55" facs="tcp:16052:41"/> and ſophiſticall. The which that you may the better ſee, I will illu<g ref="char:EOLhyphen"/>ſtrate it by the like ſophiſme. S. O<g ref="char:EOLhyphen"/>rigen telleth of a certaine ſophiſter who to perſwade a ſicke man not to ſende for a Phyſition,<note place="margin">Lib. <hi>2.</hi> con<g ref="char:EOLhyphen"/>tra Celſum</note> vſed this reaſon, if (ſaid he) it be decreed by deſtiny that thou ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt recover thy health, then in vaine doeſt thou ſend for a phyſition, but if it be de<g ref="char:EOLhyphen"/>creed by deſtinie, that thou ſhalt not recover, then alſo in vain doſt thou ſend for a phyſition, ſince hee ſhall not helpe thee: the ſicke re<g ref="char:EOLhyphen"/>plyed to the ſophiſter (beeing be<g ref="char:EOLhyphen"/>like a new married ma<g ref="char:cmbAbbrStroke">̄</g>) in this man<g ref="char:EOLunhyphen"/>ner. If God hath decreed that thou ſhalt haue no childre<g ref="char:cmbAbbrStroke">̄</g>, in vain doſt thou vſe the meanes of a woman, but if God hath decreed that thou ſhalt haue children, in vaine haſt thou vſed the meanes of a woman, for that which God hath decreed, ſhall bee done, though thou hadſt
+<pb n="56" facs="tcp:16052:42"/> not vſed the meanes of a vvoman. The Sophiſter ſaide true, that if it vvere decreed by deſtiny that the ſicke man ſhould not recover, in vain ſhould he ſend for a phyſitio<g ref="char:cmbAbbrStroke">̄</g>, but his illation hereon was falſe &amp; abſurd, being ignora<g ref="char:cmbAbbrStroke">̄</g>t of the event &amp; what vvas decreed: that it vvas in vaine to ſend for a phyſitio<g ref="char:cmbAbbrStroke">̄</g>, ſith God hath ordained phyſitions, as an ordinarye meanes to cure diſea<g ref="char:EOLhyphen"/>ſes, and therefore not to be negle<g ref="char:EOLhyphen"/>cted, but vſed, except vve vvil wil<g ref="char:EOLhyphen"/>lingly refuſe the ordinance of god, to bring to paſſe that which God hath ordained to be done. It is true alſo which the ſicke man replyed, in vaine vve marry for procreation of children, if God hath orday<g ref="char:EOLhyphen"/>ned we ſhall haue no children, but his illatio<g ref="char:cmbAbbrStroke">̄</g> was falſe hereon, that the ſophiſter vſed in vain the ordinary meanes which God had ordained to bee vſed to this purpoſe; So you
+<pb n="57" facs="tcp:16052:42"/> ſay true, that vvhatſoever you do now, you cannot alter that vvhich God alreadye hath decreed, but your illatio<g ref="char:cmbAbbrStroke">̄</g> or inference hereon is very falſe, that it makes no matter to ſalvation hovveſoever you liue, ſith as God hath predeſtinated me<g ref="char:cmbAbbrStroke">̄</g> to ſalvatio<g ref="char:cmbAbbrStroke">̄</g>, ſo alſo hath he ordained the means wherby they ſhall come to everlaſting life, the which means if they deſpiſe they deſpiſe God, and faile of their ſalvation.<note place="margin">1. Theſſ 4.7.8. 1. Pet. 2.24 Luk. 1.74.75. 1. Cor. 10.9. Num. 21.6 Pſal. 106. Numb. 14.37.</note> Novve the ordinary meanes, which God hath ordained, to bring his elect to ſalvation, as by many degrees and ſteps, are firſt an effectuall vocati<g ref="char:EOLhyphen"/>on by the externall preaching of his worde, and internall operation of his holy ſpirit; from this knovv<g ref="char:EOLhyphen"/>ledge of God by vocation, to iuſti<g ref="char:EOLhyphen"/>fication by a true faith; from iuſti<g ref="char:EOLhyphen"/>fication proceedeth ſanctificatio<g ref="char:cmbAbbrStroke">̄</g>, and then glorification of eternal life.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Come, come, while you
+<pb n="58" facs="tcp:16052:43"/> thus diſcourſe we forget our pace, ſpur.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Alas it is pitty to ride fa<g ref="char:EOLhyphen"/>ſter, you ſee how our horſes ſweate vvith this pace vvhich vvee haue rid already.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>What? come, ne<g ref="char:EOLhyphen"/>ver ſpare a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade, ſpur, ſpur.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Nay vvee may not vſe crueltie to<g ref="char:EOLhyphen"/>wards dombe creatures, The ſcrip<g ref="char:EOLhyphen"/>ture ſaith,<note place="margin">Deut. 22.6.7.</note> 
+                  <hi>if thou finde a nea<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of young birds, thou ſhalt not kill the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mme <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them,</hi> and leaſt you ſhould thinke this a light or ſmall matter, God promiſeth to the<g ref="char:cmbAbbrStroke">̄</g> that obſerue this light commaundement, length of life and proſperity of daie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. And it is ſaid in an other place,<note place="margin">Pro. 12.10</note> 
+                  <hi>a righteous man vſeth mercy towards his beaſt, but the mercies of the vvicked are cruell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Nay the<g ref="char:cmbAbbrStroke">̄</g>, if you are ſo precize, that I may not ſpur my horſe, but by ſcripture, fare you wel, I am not for your company. I ſee one riding before, <hi>I</hi> will overtake him, <hi>I</hi> hope he is a better fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Farewel
+<pb n="59" facs="tcp:16052:43"/> ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>You are wel overtaken ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>You are welcome,</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I pray how far ride you this way.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>To Oxford.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I am glad I haue light in your company, I haue bin ſo ty<g ref="char:EOLhyphen"/>red with a ſcholler behinde, that <hi>I</hi> was faine to gallop away from him</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Whats the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Hee is ſo ful of reformation, &amp; inſtructio<g ref="char:cmbAbbrStroke">̄</g>, &amp; reprehenſion, &amp; contradiction, all vpon holynes and good works, that hee puts me cleane out of my humor.<note place="margin">2. Pet. 2.3.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>You haue ſaid enough <hi>I</hi> knowe by that vvhich you haue ſpoken,<note place="margin">2. Pet. 2.3.</note> of whoſe brood he is.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Whoſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Of Luthers.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Lu<g ref="char:EOLhyphen"/>thers? what was he?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>A man that co<g ref="char:cmbAbbrStroke">̄</g>tradicted the whole world, whoſe ſpirite of contradiction hee hath left to al h s brood, and if you thinke I falſely accuſe them, you ſhall ſee the proofe of my ſpeech; you ſay he is all for good workes, if your haſt be not the greater, let vs
+<pb n="60" facs="tcp:16052:44"/> a light and walke a little, &amp; he wil quickly over take vs. I vvill ſpeake for good works, &amp; I wil lay a quart of vvine, he vvill be as hoat againſt them, as he hath bin for them.</p>
+            </sp>
+            <sp>
+               <speaker>Gall</speaker>
+               <p>Co<g ref="char:cmbAbbrStroke">̄</g>tent, let vs alight, I wil lay with you that quart, I haue no haſt, on<g ref="char:EOLhyphen"/>lie I loue not to ride a dreaming pace; I vvoulde gladly heare the ſcholler recall all that he hath ſaid. But I pray you vvhat was that <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> you ſpeake of.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Hee vvas once himſelfe a Frier, had vovved chaſtity, acknowledged the ſupre<g ref="char:EOLhyphen"/>macie of the Pope, &amp; for a time, as others, was devout, in faſting, prai<g ref="char:EOLhyphen"/>er &amp; other devotions, but having the ſpirit of co<g ref="char:cmbAbbrStroke">̄</g>tradictio<g ref="char:cmbAbbrStroke">̄</g>, he caſt off all care of obedience to his ſuperi<g ref="char:EOLhyphen"/>our, denied the ſupremacy of the Pope, renounced his vow, married againſt his oath: left off al good de<g ref="char:EOLhyphen"/>votion, moved ſuch ſedition in the Catholike Church, that yet never
+<pb n="61" facs="tcp:16052:44"/> could be ended, &amp; whatſoever im<g ref="char:EOLhyphen"/>piety you ſee in the people, he was the firſt ma<g ref="char:cmbAbbrStroke">̄</g> that looſed the raines vnto it, &amp; hath bin the cauſe of all ſuch licentiouſnes which now you ſee too common amongſt vs, prea<g ref="char:EOLhyphen"/>ching liberty &amp; licentiouſnes, and by his pleaſing doctrine, drew ſuch a nu<g ref="char:cmbAbbrStroke">̄</g>ber after him, that hee had not onely many followers, but alſo mighty defe<g ref="char:cmbAbbrStroke">̄</g>ders, ſo that the Pope vvas faine to call the Counſaile of Trent againſt him, &amp;,<note place="margin">Sleydan lib. 3.</note> had hee not hid his head, he had bin puniſhed according to his deſertes: It is pit<g ref="char:EOLhyphen"/>ty he was ever born, he hath done more hurt to the catholike church then ever vvill be throughly vvell ſalved: ſuch a deadly wound hath he given the church. But I leaue to diſcourſe further of his behaviour &amp; life, &amp; referre it till we come to our Inne in Oxforde: for it vvil re<g ref="char:EOLhyphen"/>quire a whole daies diſcourſe to ſet
+<pb n="62" facs="tcp:16052:45"/> him out in his true colours. You ſee the ſcholler is now come neere vn<g ref="char:EOLunhyphen"/>to vs, &amp; therefore wee muſt leaue this talke, &amp; be th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nke vs how wee may take occaſion to enter into your former talke of good vvorks, that our wager may be tried.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Let mee alone for that, <hi>I</hi> will giue you occaſion enough, if you vvill take it when it is offered</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Yes <hi>I</hi> warrant you, <hi>I</hi> wil take it, if it bee offered: but hee is come.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Come ſir, I did well hope, when I parted fro<g ref="char:cmbAbbrStroke">̄</g> you that this gentlema<g ref="char:cmbAbbrStroke">̄</g> woulde haue rode faſter, but hee loues to ſpare his horſe as vvell as you, &amp; beſides he is iumpe of your opinion, all vpon a godly life, and good vvorkes.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Indeed ſir when this gentleman did imparte parte of the good communication that had paſt betvveene you, I was the willinger to ſtay til you ſhould overtake vs, for I am very willing
+<pb n="63" facs="tcp:16052:45"/> to haue acquaintaunce and confe<g ref="char:EOLhyphen"/>rence with ſuch men: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the ra<g ref="char:EOLhyphen"/>ther, becauſe you ſo h ghly eſteem of good vvorks, vvhen as the moſt parte of preachers contente them<g ref="char:EOLhyphen"/>ſelues with that dry doctrin of bare faith without works, little conſide<g ref="char:EOLhyphen"/>ring that they are the very cauſes wherby we purchaſe the favor of God, &amp; wherby we may merit hea<g ref="char:EOLunhyphen"/>ven.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Thoſe ſpeeches are falſe &amp; blaſphemous ſpeeches, I ca<g ref="char:cmbAbbrStroke">̄</g>not endure to hear the<g ref="char:cmbAbbrStroke">̄</g>; the beſt works that ever were done (excepte the works of Chriſt) f you vvill ſtande to the vvorth of them, deſerue e<g ref="char:EOLhyphen"/>ternall da<g ref="char:cmbAbbrStroke">̄</g>nation, if God iudge the<g ref="char:cmbAbbrStroke">̄</g> in rigour and not in mercie, be<g ref="char:EOLhyphen"/>cauſe they anſwere not to the per<g ref="char:EOLhyphen"/>fection of loue toward God, which is required in our duty. Much leſſe are they of any value, in that re<g ref="char:EOLhyphen"/>ſpect to purchaſe heave<g ref="char:cmbAbbrStroke">̄</g>. Paule was a man very full of good works, yet
+<pb n="64" facs="tcp:16052:46"/> he accounted his owne righteouſ<g ref="char:EOLhyphen"/>nes but as dou<g ref="char:cmbAbbrStroke">̄</g>g,<note place="margin">Phil. 3.8.</note> much differing fro<g ref="char:cmbAbbrStroke">̄</g> the conceit of good works, which you haue.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>St, St, my wine.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>It is gone, I yeelde.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Pardon me ſir. I ſpoke this, but only to ſee howe you like their opinion vvho ſo teach; therefore I pray take not theſe my words, as my opinio<g ref="char:cmbAbbrStroke">̄</g>, yet I muſt ſay this; I haue bin in com<g ref="char:EOLhyphen"/>pany with thoſe, whom you cal ca<g ref="char:EOLhyphen"/>tholiks, vvho giue ſhrewd reaſons for their opinio<g ref="char:cmbAbbrStroke">̄</g>, ſuch as, I confeſſe, I am not able to anſwere.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>I pray vvhat are they.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Vpo<g ref="char:cmbAbbrStroke">̄</g> this co<g ref="char:cmbAbbrStroke">̄</g>ditio<g ref="char:cmbAbbrStroke">̄</g> I will relate what reaſons I haue heard, that you ſhal not take that which I ſpeak to be mine opi<g ref="char:EOLhyphen"/>nion.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Be it ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Wel then, they proue that we can ſatiſfie for our ſins, and purchaſe the favor of God by good works,<note place="margin">Dan. 4 24.</note> out of Daniel where the Prophet adviſeth king Nabuchadnezzar (having highly
+<pb n="65" facs="tcp:16052:46"/> diſpleaſed God for his wickednes) <hi>to break off, or redeeme his ſins by righ<g ref="char:EOLhyphen"/>teouſnes, and his iniquitie with mercie towards the poore:</hi> &amp; againe Salomo<g ref="char:cmbAbbrStroke">̄</g> ſaieth, <hi>loue covereth a multitude of ſinnes,</hi> and againe he ſaith, <hi>by mercie and trueth iniquitye ſhall bee forgiven,</hi> which me thinks are very manifeſt places, to proue their aſſertio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </sp>
+            <sp>
+               <speaker>Scho.</speaker>
+               <p>Sir you muſt vnderſtand that there are two ſorts of ſinnes, the one di<g ref="char:EOLhyphen"/>rectly againſt the Maieſtie of God himſelfe, which is when wee tranſ<g ref="char:EOLhyphen"/>greſſe the commandement of the firſt table; the other ſort when we ſinne againſt our brother, which is the tranſgreſſion of the ſecond ta<g ref="char:EOLhyphen"/>ble, as when we wrong or oppreſſe the<g ref="char:cmbAbbrStroke">̄</g>, as Nabuchadnezzar did: who had violently deſtroied &amp; oppreſ<g ref="char:EOLhyphen"/>ſed many. As for the wrong we do to me<g ref="char:cmbAbbrStroke">̄</g>,<note place="margin">Calvin in<g ref="char:EOLhyphen"/>stit. lib. <hi>3.</hi> cap. <hi>4.</hi> ſect. <hi>36.</hi>
+                  </note> we may by righting the<g ref="char:cmbAbbrStroke">̄</g> ſa<g ref="char:EOLhyphen"/>tiſfie men, of which kind of ſatiſfy<g ref="char:EOLhyphen"/>ing men, &amp; not God, Daniell ſpea<g ref="char:EOLhyphen"/>keth,
+<pb n="66" facs="tcp:16052:47"/> when he ſaith to the King, <hi>let my counſaile bee accepted,</hi>
+                  <note place="margin">Dan 4.24.</note> 
+                  <hi>breake of thine iniquitie by righteouſneſſe, and by mercie to the poore,</hi> as if hee had ſaide, O King thou haſt heretofore oppreſſed, and iniured many, now right them, novve deale merci<g ref="char:EOLhyphen"/>fully vvith the poore, let thy true &amp; ſerious repentaunce be manife<g ref="char:EOLhyphen"/>ſted by good workes; novv if you vvill here by conclude, that good works and mercy to the poore doe ſatiſfie for our former ſinne, vvith God, you not only wreſt the words of the Prophet, further then they are meant, but alſo derogate from the paſſion of our only Savior. For if vvee vvill ſatiſfie for our former treſpaſſes, them muſt wee do it by ſome thing of our ovvne, not due vnto God; but all things vvee can do whatſoever, are due vnto God by the right of creatio<g ref="char:cmbAbbrStroke">̄</g>: ſo that not Adam, before his fall, could merite
+<pb n="67" facs="tcp:16052:47"/> any thing. For al the excellency in him, he had of God; much leſſe can any of his ſeede merit (Chriſt only excepted) any thing, ſeeing the beſt of them come not neere him in perfection before his fal. Hence is it that the Apoſtle ſaith,<note place="margin">1. Cor. 4.7.</note> 
+                  <hi>Yee haue nothing, but that you haue receiued, &amp; if thou haſt receaved why boaſteſt thou as though thou hadſt not received,</hi> the more thou haſt received, the more is required at thy hands.<note place="margin">Gal. 2.16, 17. Eph. 2.8.9</note> And in an other place, the ſame Apoſtle ſaith, <hi>by grace are yee ſaved through faith, and that not of your ſelues; it is the gifte of God; not of vvorkes, leſt a<g ref="char:EOLhyphen"/>nie man ſhoulde boaſt,</hi> if any man can merite by good vvorkes, hee hath vvherein hee may boaſt, in which wordes the Apoſtle vtterly denyeth, that any man may boaſt, or attribute any part of his ſalvati<g ref="char:EOLhyphen"/>on to his own deſert. Concerning your ſecond place you alleadge to
+<pb n="68" facs="tcp:16052:48"/> proue this,<note place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o. 10.12</note> 
+                  <hi>loue covereth a multitude of ſinne,</hi> it is manifeſt, that you haue taken this place vpon truſt, but he that lent you this place deceaved you; if you had but only looked vpon the place your ſelfe, you would haue perceived, that theſe wordes are not pertinent to this point, whervnto you alleadge the<g ref="char:cmbAbbrStroke">̄</g>, no more the<g ref="char:cmbAbbrStroke">̄</g> a poke ful of plumbs; the which, if you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome the wordes next going before, you may evi<g ref="char:EOLhyphen"/>dently ſee. Where Salomon ſhew<g ref="char:EOLhyphen"/>eth the nature of hatred,<note place="margin">Pro. 10.12</note> and the nature of loue; he ſaith, <hi>hatred ſtir<g ref="char:EOLhyphen"/>reth vp contention, but loue cove<g ref="char:EOLhyphen"/>reth a multitude of ſinnes,</hi> by which wordes, nothing els is meant, but where me<g ref="char:cmbAbbrStroke">̄</g> hate one an other, there they vvill goe aboute to diſcredite thoſe they hate, and ſpeake all the evil they know of their adverſary, according to that of the Apoſtle S Iames,<note place="margin">Iam. 3.16.</note> 
+                  <hi>where envying &amp; ſtrife is, ther
+<pb n="69" facs="tcp:16052:48"/> is ſedition, and 'al manner of evil works,</hi> but where loue is, if they whom they loue haue co<g ref="char:cmbAbbrStroke">̄</g>mitted any thing amiſſe, they blaſe it not abroad, but conceale it, for the loue they beare to the party ſo offending, vvhich vve ſee verified in Ioſeph, who lo<g ref="char:EOLhyphen"/>ving his eſpowſed wife Mary, <hi>when hee perceived ſhee vvas vvith childe,</hi>
+                  <note place="margin">Mat. 1.19.</note> 
+                  <hi>would not make her a publike example,</hi> &amp; draw her before the magiſtrate, but was minded <hi>ſecretly to put her a<g ref="char:EOLhyphen"/>way.</hi> Now Salomo<g ref="char:cmbAbbrStroke">̄</g> ſaying no more, but affirming only that the nature of loue is ſuch, as that it wil not de<g ref="char:EOLhyphen"/>fame thoſe whom it loueth, you bring it, as though he ſaid loue me<g ref="char:EOLhyphen"/>riteth the forgiueneſſe of ſinnes in the ſight of God, very wide from the meaning of Salomon. Now co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cerning your third reaſon,<note place="margin">Pro. 16.6.</note> 
+                  <hi>by mercy and trueth ſhall iniquitie bee forgiven,</hi> marke well the words; he doth not ſay for the merite of mercie and
+<pb n="70" facs="tcp:16052:49"/> truth (which you are to proue) but by, as by the meanes, &amp; not for the merit of them. The like ſpeech hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Prophet Ezechiell,<note place="margin">Ezech. 18.</note> where the Lord teſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fieth, that if the vvicked wil forſake his wicked way, and do that which is right and good, the Lord wil not remember his former wickedneſſe. In vvhich words hee ſhevveth his mercie in forgiuing them, &amp; the meanes, not the cauſe wherby they may obtaine mercy, namely by a true repenta<g ref="char:cmbAbbrStroke">̄</g>ce, which conſiſteth in newneſſe of life &amp; in doing mercy and trueth.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>This is but your private opinion; the fa<g ref="char:EOLhyphen"/>thers had a higher opinion of good workes, they tooke them for me<g ref="char:EOLhyphen"/>rites of eternall life.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>If you read them you ſhal find the co<g ref="char:cmbAbbrStroke">̄</g>tra<g ref="char:EOLhyphen"/>ry.<note place="margin">Bernard in Cant ſerm. 22.</note> Bernard ſaith of them all gene<g ref="char:EOLhyphen"/>rally, <hi>ſunt via ad regnum, non cauſa regnandi,</hi> they are the vvay wher<g ref="char:EOLhyphen"/>by we are brought to the kingdom
+<pb n="71" facs="tcp:16052:49"/> of god, &amp; not the cauſes of our ob<g ref="char:EOLhyphen"/>taining heauen. &amp; Origen expou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ding theſe wordes,<note place="margin">Origin. in epiſt. ad Rom. <hi>4 4.</hi> Ambroſe de vocatio<g ref="char:EOLhyphen"/>ne gent l. <hi>1.</hi> cap. <hi>5.</hi> August de ſpirit &amp; lit ca <hi>17.</hi> &amp; e<g ref="char:EOLhyphen"/>piſt. <hi>105.</hi> ad Sixt.</note> 
+                  <hi>to him that wor<g ref="char:EOLhyphen"/>keth, he reward is not cou<g ref="char:cmbAbbrStroke">̄</g>ted for grace but of debt,</hi> ſaith, I cannot bee per<g ref="char:EOLhyphen"/>ſwaded that there is any vvorke, that can craue recompence or re<g ref="char:EOLhyphen"/>ward of God, as a due debt. It were too long to recite what Auguſtin, what Ambroſe, vvhat Ierome and others of the Fathers ſay of this point. For the Papiſt wil not ſtand now to their expoſitions.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Nay ſlander the<g ref="char:cmbAbbrStroke">̄</g> not, they alway ſtoode highly on them.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </speaker>
+               <p>It is but a vaunt b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore thoſe that never read them,<note place="margin">Reynolds in Apologia Theſium ſect. <hi>24.</hi>
+                  </note> as it hath bin proved by a re<g ref="char:EOLhyphen"/>verend learned ma<g ref="char:cmbAbbrStroke">̄</g>, &amp; if they ſaw that they made not clearly againſt the<g ref="char:cmbAbbrStroke">̄</g>, they would never haue dealte ſo irreligiouſly with the<g ref="char:cmbAbbrStroke">̄</g>, not only to blotte out whatſoeuer they ſay againſt them, but alſo to adde vn<g ref="char:EOLhyphen"/>to them, and make them ſpeake as
+<pb n="72" facs="tcp:16052:50"/> the<g ref="char:cmbAbbrStroke">̄</g>ſelues liſt, altering the ſence of their words, by interpoſing words or ſentences.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I cannot beleeue this, this were to confeſſe that they rely little on them.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>I eaſily beleeue that you think there is no ſuch matter, for none but the ſou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>deſt frends of the Pope, &amp; late king Philip of Spaine, are admitted to the knowledge of this miſtery, who are ſworne not to reveile it. Hovv<g ref="char:EOLhyphen"/>beit, it pleaſeth God, this il practiſe of theirs ſhould come to light, co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>trary to their expectation, &amp; I can ſhewe you the booke which they cal <hi>Index expurgatorius,</hi> wherein, is namely ſet downe, what they ſhall adde, and vvhat they ſhall alter, &amp; leaue out, &amp; in what Auctors; and that it is not lawful fot any to haue any booke, but ſo corrected, nor lavvfull for anie Printer to print the<g ref="char:cmbAbbrStroke">̄</g>, but as he ſhall haue direction from this <hi>Index</hi> before mentio<g ref="char:EOLhyphen"/>ned.</p>
+            </sp>
+            <sp>
+               <pb n="73" facs="tcp:16052:50"/>
+               <speaker>Pap.</speaker>
+               <p>If it be ſo I cannot tell vvhat to ſay to it; but be it the fa<g ref="char:EOLhyphen"/>thers ſay nothing for their opinio<g ref="char:cmbAbbrStroke">̄</g>, yet the ſcriptures are very plaine, that as badde vvorks are cauſes of our damnation, ſo by good works we merite heaven. For the merit of good vvorkes, it is evident by the vvordes of Chriſt, vvho vvill cal ſome to his kingdome, &amp; ſheweth a cauſe why they ſhal enioy it, ſay<g ref="char:EOLhyphen"/>ing, for, or <hi>becauſe,</hi>
+                  <note place="margin">Matth. 25.</note> 
+                  <hi>when I was hun<g ref="char:EOLhyphen"/>grie, thirſtie, and naked, yee fedde me, gaue me drinke, and cloathed me.</hi> Now this I learned when I vvas a young ſcholler, that <hi>quia or quoniam,</hi> for, or becauſe, are alwaies called cau<g ref="char:EOLhyphen"/>ſall wordes, becauſe wee never vſe them, but when we ſhew the cauſe of a thing, and ſo Chriſt vſeth it in this place, <hi>come and inherite my king<g ref="char:EOLhyphen"/>dome, for you haue done this,</hi> ſhewing the cauſe why they ſhall inherite it.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Parte of that which you
+<pb n="74" facs="tcp:16052:51"/> haue ſaid is true, as vvhen you ſay ill or vvicked vvorkes are cauſes of da<g ref="char:cmbAbbrStroke">̄</g>natio<g ref="char:cmbAbbrStroke">̄</g>; becauſe ill works are per<g ref="char:EOLhyphen"/>fectly ill, but no good workes, (no not of the beſt of the Saints in this world) are perfectly good, &amp; ther<g ref="char:EOLhyphen"/>fore cannot deſerue eternall life. Whereas you ſay, that vvee never vſe theſe vvordes <hi>quia</hi> or <hi>quoniam,</hi> but vvhen vvee ſhew the cauſe of a thing, it is not true. But ſtay, know you him that rode by vs eve<g ref="char:cmbAbbrStroke">̄</g> now?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No, I never ſaw him before, but you maye ſee hee is a ſerving man.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Why ſay you hee is a ſerving man?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Becauſe hee weares a blue coate.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>So, your own mouth, confuteth that which you affirmed before.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>You ſaide before, that theſe words, for, &amp; becauſe, are alvvaies cauſall words, &amp; never vſed, but when the cauſe of a thing is ſhew<g ref="char:EOLhyphen"/>ed, &amp; herevpon you conclude, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="75" facs="tcp:16052:51"/> our Savior Chriſt vſeth theſe words, <hi>for or becauſe I was hungry &amp; thirſtie and yee refreſhed me,</hi> therfore thoſe good workes muſt be cauſes of enioying the kingdome of God: but it appeareth by your ovvne words that, (for or becauſe) do not alwaies ſignifie the cauſe, but ofte<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>times a probable, or a neceſſary co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſequution of a thing. You ſay he is a ſerving man, becauſe hee weares a blue coate; this <hi>becauſe,</hi> ſignifieth here in this ſpeech a Probable co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſequution, becauſe few weare a blue coate but ſerving men. A blue coate makes not a ſerving man, no more the<g ref="char:cmbAbbrStroke">̄</g> a hood a Monck. For if it ſhoulde be the cauſe of a ſerving man, then if a woman put it on, ſhe were a ſerving man: in like ma<g ref="char:cmbAbbrStroke">̄</g>ner doth our Saviour vſe theſe wordes (for or becauſe) in the place you al<g ref="char:EOLhyphen"/>leage for the merit of good works, namely, he ſignifieth the neceſſary
+<pb n="76" facs="tcp:16052:52"/> conſequution of good workes to abound in thoſe that are predeſti<g ref="char:EOLhyphen"/>nated to eternal life.<note place="margin">Mat. 19.28 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 14.23</note> For as a badge or cogniza<g ref="char:cmbAbbrStroke">̄</g>s, point out the ma<g ref="char:cmbAbbrStroke">̄</g> that weares it, whoſe man hee is, or as a Friers weede, be it blacke or gray, cauſeth men to take the<g ref="char:cmbAbbrStroke">̄</g> that weare them, to be a black or a gray Frier, becauſe it is a vveede peculier to their order: So are the charitable workes of the elect ſo eminent in them, that thereby as by badges they are diſtinguiſhed from other men; for hee will glorifie none, but whom he firſt ſanctifieth;<note place="margin">Coloſſ 3.10. Ezech. 44.7.10. Rom. 12.1 1. Theſſ. 5.23 Ioh. 13.35. 1. Ioh. 3.9.10 Eph. 4.24. Ioh. 8.39.</note> 
+                  <hi>by their fruites you ſhall knowe them.</hi> By this charitablenes one towards another are the true Diſciples of our Savi<g ref="char:EOLhyphen"/>our knowne from other men. By this our Saviour Chriſt diſproveth the vvicked Ievves not to be the ſonnes of faithfull Abraham. If (ſaith he) <hi>ye were the ſonnes of Abra<g ref="char:EOLhyphen"/>ham, you would do the workes of Abra<g ref="char:EOLhyphen"/>ham,</hi>
+                  <pb n="77" facs="tcp:16052:52" rendition="simple:additions"/> &amp; herevpon is it that our Sa<g ref="char:EOLhyphen"/>viour ſaith <hi>come inherit the kingdome prepared for you,</hi> by your good workes &amp; charitable deeds, as by badges you haue ſhevved your ſelues to be thoſe men for whom it was prepared. Your deedes haue ſhewed that you are the right ſons of Abraham; the right cauſe why they enioy it, our Saviour ſetteth downe in the ſame chapter, name<g ref="char:EOLhyphen"/>ly, the free mercy &amp; goodneſſe of God only,<note place="margin">Mat. 25.34</note> ſaying <hi>come yee bleſſed of my father inherit the kingdome prepa<g ref="char:EOLhyphen"/>red for you before the foundation of the world;</hi> this kingdome then was pre<g ref="char:EOLhyphen"/>deſtinated vnto them before they were borne, before they had done good or badde, neither can any ma<g ref="char:cmbAbbrStroke">̄</g> imagine that God choſe out ſuch as he foreſaw wold do good (as ſome haue vainely imagined) for in that one man liveth better then ano<g ref="char:EOLhyphen"/>ther, it proceedeth of the ſpeciall
+<pb n="78" facs="tcp:16052:53"/> grace of God. Iob would haue bin as bad as Iudas, or Iulian the Apo<g ref="char:EOLhyphen"/>ſtata, if the grace of God had not bettered him: For not onely to do wel,<note place="margin">Phil. 2.13</note> but alſo wil wel is of the Lords ſpeciall grace. Yet further for your better ſatisfactio<g ref="char:cmbAbbrStroke">̄</g> in this point, that it may plainly appeare, that we ca<g ref="char:cmbAbbrStroke">̄</g> no way ment any thing with god, much leſſe eternall life, you muſt conſider, that in a merite there are theſe three things neceſſarily re<g ref="char:EOLhyphen"/>quired. <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, that that wherewith we merite,<note place="margin">Iames 1.17</note> be a thing of our owne, &amp; not his with whom we woulde merit; but good works are not our own, but the graces &amp; gifts of God <milestone type="tcpmilestone" unit="unspecified" n="2"/> beſtowed on vs. Secondly it is re<g ref="char:EOLhyphen"/>quired in a true merite, that that vvherevvith we woulde merite, be profitable to him with whom vve would merite; but there is nothing in the power of man that God ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>deth <milestone type="tcpmilestone" unit="unspecified" n="3"/> in neede of.<note place="margin">Luk. 17.9.10.</note> Thirdly it is re<g ref="char:EOLhyphen"/>quired,
+<pb n="79" facs="tcp:16052:53"/> that the thing vvherewith we would merit, be of equal value, with that which we would merite, but there is no co<g ref="char:cmbAbbrStroke">̄</g>pariſon between the beſt works of any of the Saints in this life,<note place="margin">Pſal. 16.2.</note> and the ioyes of the kingdome of heauen. Now if all theſe three are neceſſaryly requi<g ref="char:EOLhyphen"/>red in a merite, and not ſo much as one of theſe three can be found in our good vvorkes, I may ſafe<g ref="char:EOLhyphen"/>lye conclude that it is impoſſible vvee ſhoulde merite anye thing at Gods hands; eſpecially ſeeing we are bound by the right of creation, ſith we are his creatures, to obſerue and doe his will, and no man ever perfectly kept his co<g ref="char:cmbAbbrStroke">̄</g>mandements as hee ought to do, but came ſhort of his duety, much leſſe did more then was his duety, vvhereby hee might merite.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No? Did never any man perfectly keepe the lavv of God? This is plaine againſt the
+<pb n="80" facs="tcp:16052:54"/> ſcripture vvhich you make the on<g ref="char:EOLhyphen"/>ly rule of truth.<note place="margin">Iob. 1.8.</note> God himſelfe gaue teſtimony of Iob, that hee vvas a righteous man, and it is ſaide that David was a ma<g ref="char:cmbAbbrStroke">̄</g> according to Gods ovvne hart.<note place="margin">Pſalm. 7.</note> Yea David himſelfe is not afraid to ſay vnto God, <hi>try mee, and examine mee, and if there bee a<g ref="char:EOLhyphen"/>ny fault founde in mee, then let mine enemie prevaile againſt mee, and laie mine honour in the duſt;</hi> ſurely if hee vvere not very confident that hee had perfectly kept his lavve, hee would never haue ſpoken ſo bold<g ref="char:EOLhyphen"/>ly. And is it not ſaid of Zacharias and Elizabeth,<note place="margin">Luk. 1 6.</note> that they were iuſt and without faulte? The ſcripture is full of ſuch ſpeeches, it is a ſhame for you to denye that vvhich the ſcripture ſo plainely affirmeth and yet pretende, that you holde no<g ref="char:EOLhyphen"/>thing but that vvhich the Scrip<g ref="char:EOLhyphen"/>ture teacheth.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Stay, be not too confident that the ſcripture is
+<pb n="81" facs="tcp:16052:54"/> on your ſide, and againſt vs, &amp; that you may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee you haue ſmall cauſe, heare your places alleadged an<g ref="char:EOLhyphen"/>ſwered, then vaunt if you haue iuſt occaſion. Firſt concerning your firſt reaſon you ſay that God him<g ref="char:EOLhyphen"/>ſelfe gaue teſtimony of Iob, that he vvas a iuſt man, &amp; therefore he ab<g ref="char:EOLhyphen"/>ſolutelie obſerved th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lavve. In ci<g ref="char:EOLhyphen"/>ting the teſtimonie of God, of Iobs righteouſnes or iuſtice, you leaue out halfe the teſtimonye vvhich God giveth of him, vvhich if you had recited al, it would much haue made for the vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding of that place. The whol teſtimony or title vvhich God giveth of him is this. <hi>None is like Iob in all the earth,</hi>
+                  <note place="margin">Iob. 1.8.</note> 
+                  <hi>an vp<g ref="char:EOLhyphen"/>right man &amp; iuſt, one that feareth God &amp; eſcheweth evill.</hi> Now theſe words import not ſo much as you woulde make them, for they are ſpoken co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paratiuely, as if he had briefly ſaid, none on the earth is ſo iuſt, or ſo vp
+<pb n="82" facs="tcp:16052:55"/> right a man as Iob is. This doth not import that either Iob or any elſe was perfectly iuſt; yet was Iob tear<g ref="char:EOLhyphen"/>med iuſt and vpright, not becauſe there was nothing amiſſe in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,<note place="margin">Iob 9 23. &amp; 39.37.</note> but becauſe, without hypocriſie, in ſincerity he feared God &amp; eſchew<g ref="char:EOLhyphen"/>ed evil; not becauſe he had the per<g ref="char:EOLunhyphen"/>fect feare and loue of God, but be<g ref="char:EOLhyphen"/>cauſe he had the true fear of Gods by reaſon of his true affection in godlines, not by reaſon of the per<g ref="char:EOLhyphen"/>fection of his inhere<g ref="char:cmbAbbrStroke">̄</g>t righteouſnes. A you<g ref="char:cmbAbbrStroke">̄</g>g infant is a perfect man, be<g ref="char:EOLhyphen"/>cauſe he hath al the eſſential parts of a man, body, and ſoule, yet is he farre from the perfection of a ma<g ref="char:cmbAbbrStroke">̄</g>, but daily he increaſeth in perfecti<g ref="char:EOLhyphen"/>on: So had Iob true righteouſnes, but not the perfection of righte<g ref="char:EOLhyphen"/>ouſneſſe. Concerning your ſecond obiection, that David appealed to the iuſtice of God, if he found any fault in him, the<g ref="char:cmbAbbrStroke">̄</g> he deſired no par<g ref="char:EOLhyphen"/>don,
+<pb n="83" facs="tcp:16052:55"/> but puniſhmente: If you had read it your ſelfe, you would haue perceiued theſe vvords vvere not ſpoken of his whole life, but onely of one falſely ſuppoſed action; for being falſely accuſed, that he went about ſome conſpiracy againſt the perſon of king Saule, he pronoun<g ref="char:EOLhyphen"/>ceth theſe words, Lord try me, and examine mee, if there be any fault found in mee (ſpeaking of the falſe ſuppoſed conſpiracie againſt king Saul, of the vvhich hee was altogi<g ref="char:EOLhyphen"/>ther guiltleſſe) then let mine ene<g ref="char:EOLhyphen"/>my take me, and perſecute mee, &amp; lay mine honor in the duſt. That he vvas a ſinner the Scripture recor<g ref="char:EOLhyphen"/>deth,<note place="margin">2. Sam. 11 1. Chro, 1.2.</note> yet hee was a man according to Gods own hart, becauſe hee de<g ref="char:EOLhyphen"/>lighted in the law of God, &amp; made it his ſtudie, and when he tripped and went wrong, hee acknowled<g ref="char:EOLhyphen"/>ged his owne infirmitie and cra<g ref="char:EOLhyphen"/>ved pardon for it, God accepting
+<pb n="84" facs="tcp:16052:56"/> in Chriſt his endevours, not exa<g ref="char:EOLhyphen"/>cting perfection in his deeds. Con<g ref="char:EOLhyphen"/>cerning your laſt obiection of Za<g ref="char:EOLhyphen"/>chary and Elizabeth his vvife, that they vvere both iuſt before God, and vvalked in all the commande<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>ts of the Lord without reproofe: indeed they were iuſt before God, but it was by imputation of the iu<g ref="char:EOLhyphen"/>ſtice of Chriſt, for whoſe comming they dayly expected, &amp; they wal<g ref="char:EOLhyphen"/>ked in all the commandements of God without reproofe before me<g ref="char:cmbAbbrStroke">̄</g>, but not perfectly before God. For if they had not acknowledged the<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ſelues ſinners, they needed not haue expected Chriſt their redee<g ref="char:EOLhyphen"/>mer,<note place="margin">Luk. 1.68.69,</note> and albeit they be tearmed iuſt, yet it doeth not follovve that they were without ſin. The worde iuſt, doeth not alwaies ſignifie one vvithout ſin, but one that deligh<g ref="char:EOLhyphen"/>teth, or endevoureth to be iuſt and holy, according to that ſaying, the
+<pb n="85" facs="tcp:16052:56"/> iuſt falleth ſeve<g ref="char:cmbAbbrStroke">̄</g> times a day; though a man ſin ſeven times,<note place="margin">Pro. 24.16 1. Pet. 4.18</note> that is many times a day, yet the ſcripture tear<g ref="char:EOLhyphen"/>meth him iuſt, by reaſo<g ref="char:cmbAbbrStroke">̄</g> of his affe<g ref="char:EOLhyphen"/>ction and his endevour to be iuſt; Zacharias and Elizabeth were iuſt before God, &amp; man, that is, repu<g ref="char:EOLhyphen"/>ted, taken, &amp; accepted iuſt before GOD in reſpect of the merites<g ref="char:punc">▪</g> of their redeemer, on whom they be<g ref="char:EOLhyphen"/>leeved, and exſpected: their ende<g ref="char:EOLhyphen"/>vours vvere accepted of as iuſt, though not iuſt perfectly, for ſo no fleſh is, or hath beene iuſt (Chriſt only excepted) as it is plainely ſet down in the ſcripture eve<g ref="char:cmbAbbrStroke">̄</g> by Iobs own mouth, who<g ref="char:cmbAbbrStroke">̄</g> you alleadged to be without ſin; he ſaith plainly,<note place="margin">Iob. 9.20. Pſ. 51.9.7.</note> 
+                  <hi>if I ſhould iuſtifie my ſelfe, mine own mouth would conde<g ref="char:cmbAbbrStroke">̄</g>ne me:</hi> &amp; againe Eliphas ſaith generally, not only of all the holy and iuſt men that ever were, but of the Saintes in heaven; what is man, that hee ſhould bee cleane,
+<pb n="86" facs="tcp:16052:57"/> &amp; he that is borne of a woma<g ref="char:cmbAbbrStroke">̄</g>, that he ſhould be iuſt?<note place="margin">Iob. 15.14 15. &amp; cap. 14 4.</note> 
+                  <hi>Behold God found not ſtedfaſtneſſe in his Saints, yea the heaue<g ref="char:cmbAbbrStroke">̄</g>s, are not cleane in his ſight,</hi> how much leſſe a man. This doe the Fa<g ref="char:EOLhyphen"/>thers alſo affirme. Auguſtine ſaith there is nether Saint nor righteous man that is without ſinne, not<g ref="char:EOLhyphen"/>withſtanding they ceaſe not to be Saints and righteous, becauſe they haue their affection ſtill ſet vpon holynes.<note place="margin">Aug de fide orthod. cap. <hi>40.</hi> &amp; al Jnnocens. Pap. ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt. <hi>95</hi> &amp; ea<g ref="char:EOLhyphen"/>chirid. cap <hi>32.</hi> Hier adve. Pelag. &amp; idem ad Ruſtia. Ambroſ de vocatione gent. lib. <hi>5.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Others of the Fathers are of the ſame opinion whoſe words to repeat would be tedious. Again Zacharian and Elizabeth his wife, were vnreproueable before men, becauſe they ſo behaved the<g ref="char:cmbAbbrStroke">̄</g>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus, as that no man coulde iuſtly com<g ref="char:EOLhyphen"/>plaine of any ill converſation in the<g ref="char:cmbAbbrStroke">̄</g>, this doth not proue they were without infirmities or ſinnes. For externall actions may haue good ſhewes, and yet they may be hay<g ref="char:EOLhyphen"/>nous ſinnes, yet commended as
+<pb n="87" facs="tcp:16052:57"/> good ſo farre as they are externall actions: yea further rewarded, as good externall actions, with tem<g ref="char:EOLhyphen"/>porall bleſſings. As for exam<g ref="char:EOLhyphen"/>ple vvhenas Iehu had deſtroyed the houſe of Ahab, the Lord ſaith vnto him,<note place="margin">2 K ng. 10 30.</note> 
+                  <hi>becauſe thou haſt diligently exequ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted all that which was right in mine eies, and haſt done vnto the houſe of Ahab, according to all things that were in my heart, therfore ſhall thy ſons ſit vpon the throne of Iſraell vnto the fourth generation:</hi> if you look on the external action of Iehu in deſtroy<g ref="char:EOLhyphen"/>ing Ahab and his poſterity, he did that which was according to Gods minde, who would haue him de<g ref="char:EOLhyphen"/>ſtroyed, becauſe he perſecuted his Prophets, &amp; for his cruelty againſt Naboth: But if you reſpect the minde of Iehu in the execution hereof, he highly ſinned; for he did not deſtroy Ahab, as to execute Gods iudgementes againſt Ahab,
+<pb n="88" facs="tcp:16052:58"/> but to ſettle himſelf in Ahabs king<g ref="char:EOLhyphen"/>dome, and therefore that he might make the kingdom ſure vnto him<g ref="char:EOLhyphen"/>ſelfe, went farther the<g ref="char:cmbAbbrStroke">̄</g> his commiſ<g ref="char:EOLhyphen"/>ſion, he not only deſtroyed Ahab and Iezabell &amp; their children, but alſo with great cruelty put to death thoſe of his kindred, leaſt they ſhould rebel againſt him. Wherfore though in this place his externall action, in deſtroying Ahab and his children, be heere commended, &amp; rewarded with a te<g ref="char:cmbAbbrStroke">̄</g>porall bleſſing, yet his ſinne, namely his ambitious minde to vſurp the kingdome, and his cruelty againſt the bloud of A<g ref="char:EOLhyphen"/>hab, is not only reproved, but alſo he hath a heavy iudgment denou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ced againſt him in the Prophet Ho<g ref="char:EOLhyphen"/>ſea;<note place="margin">Hoſe. 1.4. 2. King. 10 30.</note> he did that which God had de<g ref="char:EOLhyphen"/>termined to be done; but he did it not with that minde as he ſhoulde; God would haue Ahab deſtroied, the which Iehu effected, but not
+<pb n="89" facs="tcp:16052:58"/> becauſe God wold haue it ſo done, but being a<g ref="char:cmbAbbrStroke">̄</g>bitious to ſerue his own turn, that he might enioy his king<g ref="char:EOLhyphen"/>dome. The like example you haue of the king of Aſſyria &amp; Nabucad<g ref="char:EOLhyphen"/>nezer,<note place="margin">Eſay 10.5.6.7.12. Ezech. 29.19.</note> both which did that in theit externall actio<g ref="char:cmbAbbrStroke">̄</g>, which God would haue done, yet grieuouſly ſinned; their externall actions were allow<g ref="char:EOLhyphen"/>ed of, but their wicked minds con<g ref="char:EOLhyphen"/>demned, ſo that the commendati<g ref="char:EOLhyphen"/>ons giuen to external actions, doe not neceſſarily import that the do<g ref="char:EOLhyphen"/>ers thereof do not ſinne. Howbeit when it is ſaid of Zacharias and E<g ref="char:EOLhyphen"/>lizabeth that they were vnreproue able, no doubt it was meant, that they were iuſt and righteous be<g ref="char:EOLhyphen"/>cauſe they did ſeriouſly endevour ſo to be, and were ſo in the eſtima<g ref="char:EOLhyphen"/>tion of men; they had that kind of iuſtice or righteouſnes vvhich di<g ref="char:EOLhyphen"/>vines call <hi>iustitiam viatoris,</hi> the iu<g ref="char:EOLhyphen"/>ſtice of thoſe that tende to heave<g ref="char:cmbAbbrStroke">̄</g>,
+<pb n="90" facs="tcp:16052:59"/> wherein there is alwaies imperfe<g ref="char:EOLhyphen"/>ction; not that kinde of iuſtice which they call <hi>iuſtitiam comprehen<g ref="char:EOLhyphen"/>ſoru<g ref="char:cmbAbbrStroke">̄</g>,</hi> the iuſtice of thoſe that alrea<g ref="char:EOLhyphen"/>dye haue obtained the everlaſting kingdom, in which kinde of iuſtice there is no imperfectio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I pray ſir if there bee no man perfectlye good, nor any works ſo good, as that there is no imperfection in the<g ref="char:cmbAbbrStroke">̄</g> by reaſon wherof no man can iuſt<g ref="char:EOLhyphen"/>ly challendge eternall life as due vnto him by deſert, why doe the ſcriptures cal eternal life a rewarde of good works? As where it is ſaid, <hi>Godlyneſſe hath the promiſes of this life and of the life to come.</hi>
+                  <note place="margin">1. Tim. 4 8 Math. 5.12 Mat 10.42 Mat. 19.29 2. Tim. 4.7.8.</note> 
+                  <hi>Bleſſed are you, when men revile you, and perſecute you for my name ſake, and speake al man<g ref="char:EOLhyphen"/>ner of evill of you falſely. Reioice and be glad, for great is your reward in heave<g ref="char:cmbAbbrStroke">̄</g>. Hee that giveth a cup of cold water in my name, veryly hee ſhall not looſe his reward. Hee that forſaketh houſe, fa<g ref="char:EOLhyphen"/>ther
+<pb n="91" facs="tcp:16052:59"/> &amp; mother, brothers &amp; ſiſters, &amp;c ſhal receiue life everlaſting in the world to come.</hi> And Paul ſaith, <hi>I haue fought a good fight, I haue finiſhed my courſe, I haue kept the faith, for henceforth is laid vp for me a crowne of righteouſnes, which the Lorde the righteous iudge at tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> day ſhall not only giue me, but alſo to al the<g ref="char:cmbAbbrStroke">̄</g> that loue his appearing.</hi> Surely he claymeth it as his tight for that he had kept the faith, and hee ſaith not, the mercifull iudge will giue mee, but the righteous; iudge vvill giue mee, not as of mercy, but of right.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>True it is that life ever<g ref="char:EOLhyphen"/>laſting is promiſed as a rewarde of good works, and as a due debt vn<g ref="char:EOLhyphen"/>to godlyneſſe, but no where is it ſaid, that good works do merite e<g ref="char:EOLhyphen"/>ternall life, the word merit cannot be found in all the ſcriptures, eter<g ref="char:EOLhyphen"/>nall life is the reward for godlynes of life, not becauſe good works de<g ref="char:EOLhyphen"/>ſerue it, but by the ſavour of God
+<pb n="92" facs="tcp:16052:60"/> through Chriſt, life everlaſting is a due debt to thoſe that keep Gods commaundementes perfectly, be<g ref="char:EOLhyphen"/>cauſe God hath promiſed life ever<g ref="char:EOLhyphen"/>laſting to ſuch as doe keepe it, but none ever abſolutely kept it, ther<g ref="char:EOLhyphen"/>fore of due vvithout the grace of God by Chriſt (who only of right hath purchaſed it) no ma<g ref="char:cmbAbbrStroke">̄</g> can chal<g ref="char:EOLhyphen"/>lendge it of due and right, yet are goods works all rewarded, but not of deſert (for what can we do vnto God whereby we may make God a debter vnto vs) ſince all that wee can do is but our duty to him, nay not ſo much in duety as we ought. If then it pleaſeth him to promiſe good workes a rewarde, it procee<g ref="char:EOLhyphen"/>deth of his goodnes ſo to doe, and not our deſert; he doth binde him<g ref="char:EOLhyphen"/>ſelf by his promiſe to reward good workes, but good workes doe not deſerue either the promiſe or the reward: it is a debt of a bountifull
+<pb n="93" facs="tcp:16052:60"/> promiſe, not of a due deſert. Co<g ref="char:cmbAbbrStroke">̄</g>cer<g ref="char:EOLhyphen"/>ning that of Paul who (as you ſay) claymeth a crown of righteouſnes not as a gift, but as due vnto him for his deſert, it may be you wil ac<g ref="char:EOLhyphen"/>cept of the anſwer to this, if I bring it out of a father. Heare then what S. Auguſtin ſaith, commenting vp<g ref="char:EOLhyphen"/>on theſe words of Paule.<note place="margin">Aug. homil <hi>14.</hi> Aug de gra<g ref="char:EOLunhyphen"/>tia &amp; libe<g ref="char:EOLhyphen"/>ro arbi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rio cap. <hi>6</hi> &amp; <hi>7.</hi>
+                  </note> He crow<g ref="char:EOLhyphen"/>neth thee (ſaith S. Auguſtine) O A<g ref="char:EOLhyphen"/>poſtle, becauſe hee crowneth his giftes, and not thy merits, proving it out of the Pſalm, where it is ſaid, he crowneth them in mercy &amp; co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paſſio<g ref="char:cmbAbbrStroke">̄</g>, &amp; proceeding farther ſaith, &amp; not thee only O man whatſoe<g ref="char:EOLhyphen"/>ver thou art, but eve<g ref="char:cmbAbbrStroke">̄</g> thy ſelf ô thou Apoſtle, howe great ſoever thou mayſt bee. I haue fought a good fight, it remaineth I ſhould receiue the crown of righteouſnes, that is, the wages, nay (ſaith Auguſtin) for the wages thou haſt no power to co<g ref="char:cmbAbbrStroke">̄</g>mand the ſame at all, for in thee,
+<pb n="94" facs="tcp:16052:61"/> thine ovvne vvorke goeth not a<g ref="char:EOLhyphen"/>lone, the crovvne belongeth to God to giue it to whom he liſt, the worke is of thee, but not without his aide and helpe. When as there<g ref="char:EOLhyphen"/>fore thou ſayeſt he recompenceth good deeds: this is as if that he ha<g ref="char:EOLhyphen"/>ving prevented himſelfe, in giving of good things, ſhould retribute &amp; make recompence for them, by gi<g ref="char:EOLhyphen"/>ving freſh and new good thinges; he rewardeth them; but vnto ſuch good things, as he already hath gi<g ref="char:EOLhyphen"/>ven, For if he hath not given them wherfore ſaieſt thou?<note place="margin">2. Tim. 4.</note> 
+                  <hi>I haue travel<g ref="char:EOLhyphen"/>led more then they all, and yet not I, but the grace of God in me,</hi> &amp; if he haue not given thee to finiſh thy race; wherefore ſaieſt thou, <hi>it is not in him that vvilleth; nor in him that runneth; but of God that ſheweth mercy?</hi> Beare with me O Apoſtle (ſaith S. Augu<g ref="char:EOLhyphen"/>ſtine) I ſee not any thing of thine owne, but that which is evill and
+<pb n="95" facs="tcp:16052:61"/> nought, pardon mee Apoſtle: thus we affirme &amp; teach becauſe thou haſt ſo taught, I heare thee confeſ<g ref="char:EOLhyphen"/>ſing and acknowledging GODS goodnes, I doe not heare thee vn<g ref="char:EOLhyphen"/>thankful, I do not ſee thee to haue any thing, that thou haſt prepared and gotten of thy ſelfe, but what is evill, &amp; therfore when God crow<g ref="char:EOLhyphen"/>neth thy merites, he crowneth no<g ref="char:EOLhyphen"/>thing but his owne giftes. You ſee now that Auſten differs farre from you, he plainely affirmeth,<note place="margin">Aug. de gra. &amp; lib. ar. <hi>6. 7.</hi> Aug. in <hi>141</hi> ſerm. de tempo. Pſa. <hi>16.</hi> de ver<g ref="char:EOLhyphen"/>bis Apoſt. ſerm. <hi>5</hi> &amp; in Pſal. <hi>51.</hi> &amp; Epist. <hi>105.</hi>
+                  </note> that this crowne of glory or righteouſnes is not of due deſert, but a reward gi<g ref="char:EOLhyphen"/>ven of grace, &amp; he affirmeth, in ma<g ref="char:EOLunhyphen"/>ny other places of his workes, that no man can merite of God, ſith all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he goodnes that is in men are the giftes of God.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well then, you will not haue good workes to ſatiſ<g ref="char:EOLhyphen"/>fie for any ſin, you deny that they merit any thing at al, you deny al<g ref="char:EOLhyphen"/>ſo that any hath or may poſſiblie
+<pb n="96" facs="tcp:16052:62"/> obſerue the lawe of God, thus you make godlineſſe not to be of anie worth, &amp; therfore little to be ſet by or regarded, which is as if you ſhuld diſſwade men fro<g ref="char:cmbAbbrStroke">̄</g> it. But ſince now you haue diſcovered your opinio<g ref="char:cmbAbbrStroke">̄</g> of good works, I will tell you what talke paſſed betweeen this gentle<g ref="char:EOLhyphen"/>ma<g ref="char:cmbAbbrStroke">̄</g> &amp; me, before you overtook vs; he told me, you ſtood highly vpo<g ref="char:cmbAbbrStroke">̄</g> good workes; at which I marveiled much, co<g ref="char:cmbAbbrStroke">̄</g>ſidering this age wherein all preach nothing but faith onely without good vvorkes, preſuming that you ſhoulde not much differ from other of your religion, I was boulde to lay a ſmall vvager vvith him, that ere I had done with you, you would ſpeake as much againſt good workes, as you haue done for them, the which you ſee you haue done, making the<g ref="char:cmbAbbrStroke">̄</g> of no value, my worſe then nothing, even doung.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>If you haue laide any ſuch
+<pb n="97" facs="tcp:16052:62"/> wager, the<g ref="char:cmbAbbrStroke">̄</g> you haue loſt. For vnto him I ſpake ſo of good works, that according to the ordinarie courſe that God vſeth in ſaving men, no man ſhall be ſaued without them: but ſince I beganne to argue with you, I haue ſpoke<g ref="char:cmbAbbrStroke">̄</g> no one word a<g ref="char:EOLhyphen"/>gainſt good works, but only againſt that falſe accou<g ref="char:cmbAbbrStroke">̄</g>t you make of the<g ref="char:cmbAbbrStroke">̄</g>, placing them in too high a roome, in the place of chriſt, aſcribing that vnto them, which is due only vnto Chriſts merites, robbing Chriſt of his due, aſcribing that to vs &amp; our workes, which is no way due vnto vs vvithout iniurie done vnto our Saviour.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>As I am true gen<g ref="char:EOLhyphen"/>tleman, well ſaide ſcholler. Sir he aunſwereth you right. For he that ſaith that ſiluer, is not as good as gold, doth not diſco<g ref="char:cmbAbbrStroke">̄</g>mende ſilver. He hath denied that falſe eſtimatio<g ref="char:cmbAbbrStroke">̄</g> and too high rare you make good workes to be of: He hath not deni<g ref="char:EOLhyphen"/>ed
+<pb n="98" facs="tcp:16052:63"/> them their due praiſe, therefore you ſee I haue vvonne.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Sir you ſay I account good vvorkes worſe then nothing, even doung; blame not me for ſo tearming the<g ref="char:cmbAbbrStroke">̄</g>, S<hi rend="sup">•</hi>. Paule ſo tearmeth the<g ref="char:cmbAbbrStroke">̄</g>,<note place="margin">Phil. 3.8.</note> not ſim<g ref="char:EOLhyphen"/>ply in the<g ref="char:cmbAbbrStroke">̄</g>ſelues, but in the matter of iuſtification before God, vvhich only I affirme, that to iuſtifie vs be<g ref="char:EOLhyphen"/>fore GOD they are of no greater force the<g ref="char:cmbAbbrStroke">̄</g> I haue ſpoken. The which that you may the better vnder<g ref="char:EOLhyphen"/>ſtand, you muſt conſider that the Scripture maketh but foure cauſes <milestone type="tcpmilestone" unit="unspecified" n="1"/> of our iuſtification, of the vvhich good vvorkes are none; the firſt is the efficient cauſe, which is only the mercy and goodnes of God in giving his only begotten ſonne for the redemptio<g ref="char:cmbAbbrStroke">̄</g> of the world. The <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſecond cauſe of our iuſtification is the materiall cauſe, vvhich is the death and paſſion of our Saviour Chriſt,<note place="margin">Pſ. 49.78.</note> by vvhoſe obedience &amp; ful<g ref="char:EOLhyphen"/>filling
+<pb n="99" facs="tcp:16052:63"/> of the lawe, perfect righte<g ref="char:EOLhyphen"/>ouſnes is purchaſed for vs; the third <milestone type="tcpmilestone" unit="unspecified" n="3"/> cauſe is the formall cauſe, or inſtru<g ref="char:EOLhyphen"/>mentall cauſe, which is faith alone without good workes, which faith only apprehe<g ref="char:cmbAbbrStroke">̄</g>deth Chriſt our righ<g ref="char:EOLhyphen"/>teouſneſſe. Theſe three cauſes the Apoſtle co<g ref="char:cmbAbbrStroke">̄</g>prehe<g ref="char:cmbAbbrStroke">̄</g>deth in one verſe ſaying, <hi>So God loved the world,</hi>
+                  <note place="margin">Ioh 3.16. 1. Ioh 4.9<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>that he ſeat his only begotte<g ref="char:cmbAbbrStroke">̄</g> ſon, that who ſo be<g ref="char:EOLhyphen"/>leeveth in him ſhold not periſh but haue life everlaſting.</hi> VVhere you ſee the efficient cauſe to be Gods mercie, the materiall cauſe to be the incar<g ref="char:EOLhyphen"/>nation of Chriſt redeeming vs by his ſatisfaction of the law &amp; ſuſtai<g ref="char:EOLhyphen"/>ning the puniſhment due to our ſinne,<note place="margin">Rom. 2.23 24.25.26.</note> and faith the inſtrumentall cauſe apprehending the righteouſ<g ref="char:EOLhyphen"/>nes of Chriſt. The finall cauſe, the fourth and laſt, is the glory of God, <milestone type="tcpmilestone" unit="unspecified" n="4"/> as the Apoſtle ſaith,<note place="margin">Epheſ. 2.7</note> 
+                  <hi>that his goodnes and kindneſſe might bee ſhewed.</hi> Heere you ſee the ſcripture teacheth that
+<pb n="001" facs="tcp:16052:64"/> theſe foure aboue mentioned are the only cauſes of our iuſtification, good works haue no place among them. Now albeit wee thus teach beeing ſo taught by the vvorde of God,<note place="margin">Iuel. in apo. Par. <hi>2.</hi> cap. <hi>20.</hi> Calvin. in<g ref="char:EOLhyphen"/>ſtit. libr. <hi>3.</hi> cap. <hi>14</hi> ſect. <hi>21.</hi> Zanch. de attributis dei. Reinolds Apol. p. <hi>263</hi> Buchan. inſtit. theo. de bonis oper. p. <hi>344.</hi> Pet: Mart. co<g ref="char:cmbAbbrStroke">̄</g>mon plac. claſſe <hi>3</hi> de conf. chriſt. ſect. <hi>8.</hi> c. <hi>11. Rom. 10.10</hi> Fox de chri<g ref="char:EOLunhyphen"/>sto gratis iuſtifi. lib. <hi>2</hi> pag <hi>398.</hi> Fulk. annot in <hi>2.</hi> Iaco<g ref="char:EOLhyphen"/>bi <hi>12.</hi> Remenſes in annot ad Colloſ. cap. <hi>1 24.</hi>
+                  </note> yet we doe not as the Papiſts ſlaunder vs, vilifie good workes, or make no account of them; wee aſ<g ref="char:EOLhyphen"/>cribe vnto them, as much as truth will permitte vs, we hold they are ſecundary cauſes of our glorificati<g ref="char:EOLhyphen"/>on, nay wee ſtand more for the ne<g ref="char:EOLhyphen"/>ceſſity of them to ſalvation, then doe the Papiſts, wee hould that no man can bee ſaved without them, according to the ordinary diſpen<g ref="char:EOLhyphen"/>ſation of the graces of God. VVe hold, he that delighteth and con<g ref="char:EOLhyphen"/>tinueth in ſinne ſhall be condem<g ref="char:EOLhyphen"/>ned, according to that of the Pro<g ref="char:EOLhyphen"/>phet Ezechiel. 18.20. <hi>The ſoule that ſinneth, that ſoule ſhall die.</hi> But the Papiſts hould not this neceſſitie of good works, but if a ma<g ref="char:cmbAbbrStroke">̄</g> want good
+<pb n="101" facs="tcp:16052:64"/> workes he may be ſaved notwith<g ref="char:EOLhyphen"/>ſtanding, (provided alwaies that hee giue ſufficient money to the Pope for his generall<note n="*" place="margin">The more mony you giue, the more ſins ſhalbe pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>doned. Grafto<g ref="char:cmbAbbrStroke">̄</g> it the 6. yea of Richar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the 2. An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Do. 1382 Froiſtart Fabian. Gall. 6.5. Pſ. 49.7.</note> pardon) for they teach that al the works of ſu<g ref="char:EOLhyphen"/>pererogation are in the cuſtodie of the Pope, at whoſe ſole pleaſure they may be diſpoſed of, vvhich works of ſupererogation, ſuch foo<g ref="char:EOLhyphen"/>liſh virgins that want oyle in their lamps, may buy of the Pope. Thus teach the divines of Rhems con<g ref="char:EOLunhyphen"/>trary to the word of God, vvhich ſaith, <hi>every one ſhall beare his owne burthen;</hi> and in another place, the redemption of a mans ſoule is ſo precious a thing, that no <hi>man can re<g ref="char:EOLunhyphen"/>deeme it by any meanes, or giue a ran<g ref="char:EOLhyphen"/>ſome to god for it.</hi> This doctrin of the ſcripture, which overthroweth the Popes pardons &amp; indulge<g ref="char:cmbAbbrStroke">̄</g>ces, they cannot beare with; it brought Lu<g ref="char:EOLhyphen"/>ther much trouble, yea daunger of his life, becauſe he vvas ſo bolde to
+<pb n="102" facs="tcp:16052:65"/> diſcover this conicatching tricke of pardoning malefactors with Popes Buls, and ſuch traſh: nay to increaſe the Popes gaines they faine that he hath authoritie to free me<g ref="char:cmbAbbrStroke">̄</g> from tormentes after they are departed this life, flat againſt the vvorde of God; and what els is the cauſe why they ſo impudentlye affirme that manye of their Saintes haue done many vvorkes of ſupererogation, yea haue ſuſtained greater afflicti<g ref="char:EOLhyphen"/>on, then their ſinnes d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſerved, but onely to make the ſimple beleeue, that theſe works and theſe afflicti<g ref="char:EOLhyphen"/>ons are laide vp in ſtore vvith the Pope for thoſe that haue no works, and that hee may make them rich in good works, yea though they be dead already? Whereas if in deede they ſtood ſo much for good works for zeale to good works, &amp; not for filthy luker, they would not ſecret<g ref="char:EOLhyphen"/>ly vndermine the doctrine, of the
+<pb n="103" facs="tcp:16052:65"/> neceſſity of good vvorks to ſalva<g ref="char:EOLhyphen"/>tion, as they do, ſeeking ſecretly to root out this neceſſary point of do<g ref="char:EOLhyphen"/>ctrin to ſalvation, cleane out of the mindes of men. That they would not haue this doctrine taught, it is manifeſt (though they woulde not haue their practiſe known) in their Index <hi>expurg.</hi> in which they diſco<g ref="char:EOLhyphen"/>ver their minde: where ſhewing a<g ref="char:EOLhyphen"/>mongſt other thinges vvhat they wold haue blotted out in <hi>Froben.</hi> Index to S. Auſtines workes, they commande that theſe words muſt be blotted out, <hi>opera et ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>con iuſtifi<g ref="char:EOLhyphen"/>cent: ſunt tamen ad ſalutem neceſſaria</hi> to 4. <hi>Col.</hi> 599. <hi>b. c.</hi> Theſe wordes muſt be blotted out, for (ſay they) <hi>Auguſtinus hoc non dicit, ſed tantum excludit merita iuſtificationis.</hi> Where firſt you ſee they like not this do<g ref="char:EOLhyphen"/>ctrin of the neceſſity of good works to ſalvation. Secondly you may ſee that heere ſecretly they acknowe<g ref="char:EOLhyphen"/>ledge,
+<pb n="104" facs="tcp:16052:66"/> that S. Auguſtine is againſt them in the matter of iuſtificatio<g ref="char:cmbAbbrStroke">̄</g>, excluding works to haue any ſtrok in it, which publikely they wil not confeſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What tell you me of a blinde book? I never heard of a<g ref="char:EOLhyphen"/>ny ſuch booke before, neither can I beleeue that there is anye ſuch book.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>If you doubt of it, if pleaſe you, I wil let you ſee it. You might eaſily diſprooue me, if it vvere not true, but the book is common now in every ſtationers-ſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>S'r, pray ſir, holde the Scholler vvith ſome talke, whileſt I ſlip behinde, for I am weary of him.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>I will. I pray ſir what pretence make they, thus to deale with ancient writers. For I doubt not, but they will pre<g ref="char:EOLhyphen"/>tende ſome reaſon of their doing.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>So they doe, they pretende that heretikes corrupted the anci<g ref="char:EOLhyphen"/>ent writers, and that they do now, but rectifie them againe, but vn<g ref="char:EOLhyphen"/>der
+<pb n="105" facs="tcp:16052:66"/> the name of rectifying them, they make them ſpeak as pleaſeth the<g ref="char:cmbAbbrStroke">̄</g>. Out of ſome writers they take out whole tracts, ſometimes they alter their words, ſometimes they leaue out words, ſometimes they blot out words and ſentences, leſt forſooth they might be a ſcand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll to the weake. But where is the o<g ref="char:EOLhyphen"/>ther gentlema<g ref="char:cmbAbbrStroke">̄</g>?</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>He is behinde.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl</speaker>
+               <p>Whats the matter? Is he not well? pray let vs ſtay for him. Stay pray, it may bee he may neede our helpe.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Come, come, he would not haue vs ſtay,</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>Why? why?</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Since you will needes know, you haue put him out of his hu<g ref="char:EOLhyphen"/>mour. He ſtayes of purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>If that be the matter, I am not ſory for that I haue done, &amp; if he never come againe to his humor, he will never be the worſe man: for albeit he ſaid he woulde but repeate that which hee had heard amongſt the
+<pb n="106" facs="tcp:16052:67"/> Catholikes (as hee tearmed them) yet me thought he ſpake not with<g ref="char:EOLhyphen"/>out ſome paſſions, as if he had ſpo<g ref="char:EOLhyphen"/>ken fro<g ref="char:cmbAbbrStroke">̄</g> his hart.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Well ſir ſince vvee are novve come to Oxford I thanke you for your co<g ref="char:cmbAbbrStroke">̄</g>pany; when I firſt overtooke you, I thought I ſhould haue a tedious iourney, but now me thinkes we haue pleaſant<g ref="char:EOLhyphen"/>lye paſſed our waye. And for this daies iourney I wil buy me a bible, that I may bee able to talke when I meete with the like co<g ref="char:cmbAbbrStroke">̄</g>pany. For if I light in ſuch company, as talke of the ſcripture, I ſit mute, or leaue their company, becauſe I haue read nothing in it.</p>
+            </sp>
+            <sp>
+               <speaker>Scholl.</speaker>
+               <p>I am very glad to heare you reſolved to reade the ſcriptures, &amp; although as yet, you meane to reade it, to no other pur<g ref="char:EOLhyphen"/>poſe, then to be able to talke of it, yet if you read it, I doubt not but God will ſo bleſſe your labor ther<g ref="char:EOLhyphen"/>in, that it will worke better effects
+<pb n="107" facs="tcp:16052:67"/> in you, then onlie abilitie to talke of it: for the reading of it, will bring you to the true knowledge of God, the knowledge of God to the loue of God, the loue of God to a deſire to liue according to his will: Wher<g ref="char:EOLhyphen"/>fore David ſaith,<note place="margin">Pſ. 19.7.11 Pſ. 1119.9 Heb. 4.12.</note> 
+                  <hi>the word of God con<g ref="char:EOLhyphen"/>verteth the ſoule, it giveth wiſedome to the ſimple,</hi> and maketh the readers therof circumſpect to avoide thoſe things that are evill, it cauſeth men to be new men, it is mighty in ope<g ref="char:EOLhyphen"/>ratio<g ref="char:cmbAbbrStroke">̄</g>. So that by one ſermon of Pe<g ref="char:EOLhyphen"/>ter, three thouſand were co<g ref="char:cmbAbbrStroke">̄</g>verted.<note place="margin">Acts 2.41.</note> Felix though a bad man, yet hee trembled vvhen hee harde Paule preach of righteouſnes, te<g ref="char:cmbAbbrStroke">̄</g>perance, and the iudgement to come. Wher<g ref="char:EOLhyphen"/>fore I pray neglect not the reading of it,<note place="margin">Act. 24.26 Rom 1.16 1. Cor. 1.19</note> ſince it <hi>is the power of God to ſal<g ref="char:EOLhyphen"/>vation,</hi> &amp; aboue all conforme your life vnto it, and thinke not that it is an eaſie thing to attaine vnto the kingdome of heave<g ref="char:cmbAbbrStroke">̄</g>. They that
+<pb n="108" facs="tcp:16052:68"/> vvill enter into the kingdome of heaven muſt vſe violence, &amp; con<g ref="char:EOLhyphen"/>ſtraine themſelues to leaue off car<g ref="char:EOLhyphen"/>nal and worldly affections, <hi>the way that leades to deſtruction is broad,</hi>
+                  <note place="margin">Mat. 11.12. Luk. 16.16.</note> 
+                  <hi>and vvide, and manie there are that enter therein, but the way that leades to hea<g ref="char:EOLhyphen"/>ven is ſtraite and narrow, &amp; few there are that enter therein.</hi>
+                  <note place="margin">The of<g ref="char:EOLhyphen"/>ſpring of Adam is devided into fowre ſorts.</note> Conſider the whole of-ſpring of Adam, what a number never come vnto the true knowledge of God, but vaniſh a way in ignorance and idolatry; all <milestone type="tcpmilestone" unit="unspecified" n="1"/> theſe are in the way of perditio<g ref="char:cmbAbbrStroke">̄</g>. An <milestone type="tcpmilestone" unit="unspecified" n="2"/> other ſort there are, that know god and acknowledge al the articles of the Creede, yea the trueth of the whole Scripture,<note place="margin">Titu. 1.16. Ioh. 5.44. Ioh 12.42.43.</note> yet <hi>denye God in their works,</hi> and theſe are alſo in the way of perdition. A third ſort pre<g ref="char:EOLhyphen"/>tend they know God, &amp; pretende <milestone type="tcpmilestone" unit="unspecified" n="3"/> an externall kinde of holynes, but <hi>deny the force of it,</hi>
+                  <note place="margin">2. Tim. 3.5 Ioh. 12.42.43.</note> 
+                  <hi>loving the praiſe of men more then God,</hi> &amp; theſe alſo are
+<pb n="109" facs="tcp:16052:68"/> in the broad way of perdition. A fourth ſorte there is, vvho knowe <milestone type="tcpmilestone" unit="unspecified" n="4"/> God, &amp; in ſincerity loue him, be<g ref="char:EOLhyphen"/>leeue in him, and conforme them<g ref="char:EOLhyphen"/>ſelues to liue according to his word &amp; theſe only are in the ſtrait way to heaven.<note place="margin">Calvin. in<g ref="char:EOLhyphen"/>ſtitut. lib. <hi>3</hi> cap <hi>14.</hi> ſect. <hi>1.</hi>
+                  </note> Wherefore as you ten<g ref="char:EOLhyphen"/>der your ovvne ſalvation, haue a care to vnderſtand the worde, not that you may be able to talk of it, but that you may know how to re<g ref="char:EOLhyphen"/>ctifie your faith and life.<note place="margin">Gall. 6.7.8 Gall 5.21.23.</note> For <hi>be not deceiued, God is not mocked, that which a man ſoweth, that ſhall he reape, hee that liveth aefter the fleſh,</hi> that is, li<g ref="char:EOLhyphen"/>veth carnally, <hi>ſhall be damned, but he that liveth after the ſpirit,</hi> that is, en<g ref="char:EOLhyphen"/>devoureth to liue according to the wil of God <hi>ſhall haue life everlaſting.</hi> And thus becauſe we are nowe en<g ref="char:EOLhyphen"/>tred into the citty, I leaue to talke further of this point.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>Sir for your good adviſe, I thanke you moſt hartily, &amp; this I promiſe you,
+<pb n="110" facs="tcp:16052:69"/> that hereafter I will haue a greater care of theſe matters <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I haue had heretofore. Now ſir if you wil doe me that favour, as to ride with me to my Iune, I ſhall accept it for great kindneſſe, and I will beſtowe the beſt wine in Oxford on you, &amp; as good a pipe of Tobacco as ever you taſted.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>I am beholding to you for your good will, I praye pardon me at this time, I muſt to my Colledge, &amp; thus I leaue you to the almighty.</p>
+            </sp>
+            <sp>
+               <speaker>Gall.</speaker>
+               <p>A due withal my heart.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:16052:69"/>
+         </div>
+      </body>
+   </text>
+</TEI>
